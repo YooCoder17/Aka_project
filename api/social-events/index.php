@@ -1,4 +1,4 @@
-<?php include_once("/api/header2.php");?>
+<?php include_once('api/header2.php');?>
 <style>
 #colDroite2.menuVertical {
     overflow:hidden;
@@ -152,4 +152,4 @@ Social event planning requires creativity, flair, timing, and organisational abi
         </div>
         <div id="scrollDown"></div>
         <div id="cacheMenu"></div>
-         <?php include_once("../footer2.php");?>
+         <?php include_once('api/footer2.php');?>

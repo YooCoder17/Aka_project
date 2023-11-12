@@ -1,4 +1,4 @@
-<?php include_once("/api/header2.php");?>
+<?php include_once('api/header2.php');?>
 
 <body class="page-template page-template-page-team page-template-page-team-php page page-id-101">
     <div class="wrapper" id="barba-wrapper">
@@ -437,4 +437,4 @@
             </div>
             <div id="scrollDown"></div>
 
-            <?php include_once("../footer2.php");?>
+            <?php include_once('api/footer2.php');?>

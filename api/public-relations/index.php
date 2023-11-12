@@ -1,4 +1,4 @@
-<?php include_once("/api/header2.php");?>
+<?php include_once('api/header2.php');?>
 
 <body class="page-template page-template-page-services page-template-page-services-php page page-id-7">
     <div class="wrapper" id="barba-wrapper">
@@ -45,4 +45,4 @@
                 </div>
             </div>
 
-            <?php include_once("../footer2.php");?>
+            <?php include_once('api/footer2.php');?>
