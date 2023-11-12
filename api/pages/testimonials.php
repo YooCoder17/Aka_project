@@ -1,4 +1,4 @@
-<?php include_once("../header2.php");?>
+<?php include_once("/api/header2.php");?>
 
 <body class="stories-template-default single single-stories postid-233">
     <div class="wrapper" id="barba-wrapper">

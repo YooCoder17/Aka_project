@@ -9,7 +9,7 @@
     { "source": "/css/(.*)", "destination": "/public/css/$1" },
     { "source": "/scripts/(.*)", "destination": "/public/scripts/$1" },
     { "source": "/assets/(.*)", "destination": "/public/assets/$1" },
-    { "source": "/", "destination": "/api/index.php" },
-    { "source": "/:route", "destination": "/api/:route/index.php" }
+    { "source": "/:route", "destination": "/api/:route/index.php" },
+    { "source": "/", "destination": "/api/index.php" }
   ]
 }

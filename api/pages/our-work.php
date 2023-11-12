@@ -1,4 +1,4 @@
-<?php include_once("../header2.php");?>
+<?php include_once("/api/header2.php");?>
 <body class="home page-template page-template-home-template page-template-home-template-php page page-id-5">
     <div class="wrapper" id="barba-wrapper">
         <div class="barba-container scrollTop" data-namespace="home-template.php">

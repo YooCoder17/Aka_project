@@ -1,4 +1,4 @@
-<?php include_once("../header2.php");?>
+<?php include_once("/api/header2.php");?>
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/css/bootstrap.min.css">
 <style>
 	 #image-container {
