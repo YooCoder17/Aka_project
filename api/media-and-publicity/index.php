@@ -27,7 +27,7 @@ padding:30px !important;
             <div id="bod" class="bgGrisClair bgStorie noHide">
                 <div id="cadreContent">
                      <a href="https://caebusinesssolutions.co.uk/aka/" id="logo2" class="logoClip bleuClip hideMO">
-                        <img src="<?php echo $baseHref;?>/assets/asa-logo.png" alt='logo'>
+                        <img src="/assets/asa-logo.png" alt='logo'>
                     </a>
                     <a href="https://caebusinesssolutions.co.uk/aka/" id="f2" class="nClip">
                         <!--<img-->

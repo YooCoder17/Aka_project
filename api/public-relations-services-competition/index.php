@@ -12,7 +12,7 @@
             <span id="bgBleu"></span>
             <div id="hea" class="hideMO">
                 <a href="https://caebusinesssolutions.co.uk/aka/" id="logo1" class="logoClip blancClip">
- <img src="<?php echo $baseHref;?>/assets/asa-logo.png" alt='logo'>
+ <img src="/assets/asa-logo.png" alt='logo'>
                 </a>
                 </a>
                 <a href="https://caebusinesssolutions.co.uk/aka/" id="f1" class="nClip"> 

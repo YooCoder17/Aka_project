@@ -40,10 +40,10 @@
             <div id="bod" class="bgGrisClair bgStorie noHide">
                 <div id="cadreContent">
                     <a href="gallery" id="logo2" class="logoClip bleuClip hideMO">
-                        <img src="<?php echo $baseHref;?>/assets/asa-logo.png" alt='logo'>
+                        <img src="/assets/asa-logo.png" alt='logo'>
                     </a>
                     <a href="" id="f2" class="nClip">
-                        <!--<img src="<?php echo $baseHref;?>/assets/asa-logo-400x284.png" alt="N" />-->
+                        <!--<img src="/assets/asa-logo-400x284.png" alt="N" />-->
                             </a>
                     <div id="titreVertical2" class="titreVertClip hideMO bleuClip">
                         <p>

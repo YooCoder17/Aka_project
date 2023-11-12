@@ -84,11 +84,11 @@
 </nav>
 <a href="<?php echo $baseHref;?>/" id="logo3" class="logoClip blancClip">
 
-    <img src="<?php echo $baseHref;?>/assets/asa-logo.png" alt="logo-image">
+    <img src="/assets/asa-logo.png" alt="logo-image">
 </a>
 <a id="menuLink3" class="m blancClip">Menu<div><span></span><span></span><span></span></div></a>
 <a href="<?php echo $baseHref;?>/" id="logo4" class="logoClip bleuClip">
-    <img src="<?php echo $baseHref;?>/assets/asa-logo.png" alt="logo-image">
+    <img src="/assets/asa-logo.png" alt="logo-image">
 </a>
 <a id="menuLink4" class="m bleuClip">Menu<div><span></span><span></span><span></span></div></a>
 <div id="cacheMenuBlanc"></div>
