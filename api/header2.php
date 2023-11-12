@@ -25,13 +25,13 @@
         href='https://fonts.googleapis.com/css?family=Roboto%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CRoboto+Slab%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&#038;display=swap&#038;ver=6.1.1'
         media='all' />
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/css/bootstrap.min.css">
-    <link rel='stylesheet' href='<?php echo $baseHref; ?>/css/globalStyles2.css' />
+    <link rel='stylesheet' href='/css/globalStyles2.css' />
     <link rel="shortcut icon" href="" type="image/x-icon">
-    <link rel='stylesheet' href='<?php echo $baseHref; ?>/css/style2.css?v=1.2' type='text/css' media='all' />
-    <link rel='stylesheet' href='<?php echo $baseHref; ?>/css/style-louis2.css' type='text/css' media='all' />
-    <script src="<?php echo $baseHref; ?>/scripts/jquery-3.2.1.min.js"></script>
-    <script src="<?php echo $baseHref; ?>/scripts/jquery-migrate.min.js"></script>
-    <link rel="icon" type="image/x-icon" href="<?php echo $baseHref; ?>/assets/faviconBlack.png">
+    <link rel='stylesheet' href='/css/style2.css?v=1.2' type='text/css' media='all' />
+    <link rel='stylesheet' href='/css/style-louis2.css' type='text/css' media='all' />
+    <script src="/scripts/jquery-3.2.1.min.js"></script>
+    <script src="/scripts/jquery-migrate.min.js"></script>
+    <link rel="icon" type="image/x-icon" href="/assets/faviconBlack.png">
     <style>
 	#barba-wrapper::before{
 	content: "";
