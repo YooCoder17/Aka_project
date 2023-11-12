@@ -7,11 +7,11 @@
   "routes": [
     {
       "src": "/(.*)",
-      "dest": "/api/$1/index.php"
+      "dest": "api/$1/index.php"
     },
     {
       "src": "/assets/(.*)",
-      "dest": "/api/assets/$1"
+      "dest": "api/assets/$1"
     }
   ]
 }
