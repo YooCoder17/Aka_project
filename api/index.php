@@ -4,22 +4,22 @@
         <div class="barba-container scrollTop" data-namespace="home-template.php">
             <div id="menuVI"></div>
             <!--<div id="videos-src" class="videos-src" style="display:none;"-->
-            <!--    data-src="assets/reflection-45977.mp4,  assets/Gettyimages-495355643-10-Sec-13.mp4, assets/Gettyimages-681857134-9-Sec-17.mp4, assets/Gettyimages-143-37-9-Sec-1.mp4, assets/Gettyimages-168890703-9-Sec-4.mp4">-->
+            <!--    data-src="/assets/reflection-45977.mp4,  assets/Gettyimages-495355643-10-Sec-13.mp4, assets/Gettyimages-681857134-9-Sec-17.mp4, assets/Gettyimages-143-37-9-Sec-1.mp4, assets/Gettyimages-168890703-9-Sec-4.mp4">-->
             <div id="videos-src" class="videos-src" style="display:none;"
-                data-src="assets/reflection-45977.mp4,  assets/reflection-45977.mp4, assets/reflection-45977.mp4, assets/Gettyimages-143-37-9-Sec-1.mp4, assets/Gettyimages-168890703-9-Sec-4.mp4">
+                data-src="/assets/reflection-45977.mp4,  assets/reflection-45977.mp4, assets/reflection-45977.mp4, assets/Gettyimages-143-37-9-Sec-1.mp4, assets/Gettyimages-168890703-9-Sec-4.mp4">
             </div>
             <div id="menuCache"></div>
-            <video style="background: black;" poster="assets/turbine.jpg" class="bg-vid-home" id="bgvidHome" playsinline
+            <video style="background: black;" poster="/assets/turbine.jpg" class="bg-vid-home" id="bgvidHome" playsinline
                 muted autoplay>
             </video>
-            <video style="background: black;" poster="assets/turbine.jpg" class="bg-vid-home fade-out" id="bgvidHome-2"
+            <video style="background: black;" poster="/assets/turbine.jpg" class="bg-vid-home fade-out" id="bgvidHome-2"
                 playsinline muted>
             </video>
             <span id="bgBleu" class="fixe"></span>
             <div id="hea">
                 <a href="<?php echo $baseHref;?>" id="logo1" class="logoClip blancClip"><img
-                        src="assets/asa-logo.png" alt="logo-image"></a>
-                <a href="#" id="f1" class="nClip"><img src="assets/logoiconeblanc.png" alt="N" /></a>
+                        src="/assets/asa-logo.png" alt="logo-image"></a>
+                <a href="#" id="f1" class="nClip"><img src="/assets/logoiconeblanc.png" alt="N" /></a>
                 <div id="titreVertical1" class="titreVertClip hideMO">
                     <p> </p>
                 </div>

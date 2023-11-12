@@ -78,7 +78,7 @@
                     href="<?php echo $baseHref;?>/contact-us/">Contact</a></li>
         </ul>
     </div>
-    <!--    <p id="copyright"><a href="#" target="_blank">Created by <span><img src="assets/atelierdesign.svg"
+    <!--    <p id="copyright"><a href="#" target="_blank">Created by <span><img src="/assets/atelierdesign.svg"
                     alt="Atelier Design" /></span></a></p>-->
     <p id="legalLien"><a href="#">Legal</a> - <a href="#">Privacy</a></p>
 </nav>
@@ -94,7 +94,7 @@
 <div id="cacheMenuBlanc"></div>
 <div id="logoHoverMenu">
     <a href="<?php echo $baseHref;?>" class="logoClip blancClip">
-        <!--<img src="assets/asa-logo.png" alt="logo-image">-->
+        <!--<img src="/assets/asa-logo.png" alt="logo-image">-->
         <!--  <img src="" alt='logo'>-->
     </a>
     <a class="m">Menu<div><span></span><span></span><span></span></div></a>
@@ -103,7 +103,7 @@
 </div>
 <div class="ajax-overlay">
     <a href="#" class="logoClip blancClip">
-        <img src="assets/asa-logo.png" alt="logo-image">
+        <img src="/assets/asa-logo.png" alt="logo-image">
     </a>
     <a class="m">Menu<div><span></span><span></span><span></span></div></a>
 </div>
