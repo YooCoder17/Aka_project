@@ -1,5 +1,4 @@
 {
-  "debug": true,
   "functions": {
     "api/index.php": {
       "runtime": "vercel-php@0.6.0"
@@ -9,6 +8,7 @@
     { "source": "/css/(.*)", "destination": "/public/css/$1" },
     { "source": "/scripts/(.*)", "destination": "/public/scripts/$1" },
     { "source": "/assets/(.*)", "destination": "/public/assets/$1" },
-    { "source": "/:route*", "destination": "/api/:route/index.php" }
+    { "source": "/(.*)", "destination": "/api/$1/index.php" },
+    { "source": "/:page/(.*)", "destination": "/api/:page/index.php" }
   ]
 }
