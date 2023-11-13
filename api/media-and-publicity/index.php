@@ -1,4 +1,4 @@
-<?php include_once('api/header2.php');?>
+<?php include_once('/header2.php');?>
 <style>
 #colDroite2.menuVertical {
     overflow:hidden;
@@ -42,15 +42,15 @@ padding:30px !important;
                     <div id="colDroite2" class="menuDr menuVertical bgBlanc hideMO">
                         <h2 class="titreBloc miniTitre" style="padding:40px"><span>Sectors</span></h2>
        
-<!--<a href="<?php echo $baseHref;?>/service-details/" class="fdB "><span>SERVICE DETAILS</span></a>-->
-                        <!--<a href="<?php echo $baseHref;?>/media-and-publicity/" class="fdB"><span>MEDIA & PUBLICITY</span></a>-->
-                        <a href="<?php echo $baseHref;?>/corporate-events/" class="fdB"><span>CORPORATE EVENTS</span></a>
-                        <a href="<?php echo $baseHref;?>/social-events/" class="fdB "><span>SOCIAL EVENTS</span></a>
-                        <a href="<?php echo $baseHref;?>/weddings/" class="fdB "><span>WEDDINGS</span></a>
-                        <a href="<?php echo $baseHref;?>/wedding-venue-styling/" class="fdB"><span>WEDDING VENUE STYLING</span></a>
-                        <a href="<?php echo $baseHref;?>/product-launches/" class="fdB"><span>PRODUCT LAUNCHES</span></a>
-                        <a href="<?php echo $baseHref;?>/online-events/" class="fdB"><span>ONLINE EVENTS</span></a>
-                        <a href="<?php echo $baseHref;?>/event-consultation/" class="fdB"><span>EVENT CONSULTATION</span></a>
+<!--<a href="/service-details/" class="fdB "><span>SERVICE DETAILS</span></a>-->
+                        <!--<a href="/media-and-publicity/" class="fdB"><span>MEDIA & PUBLICITY</span></a>-->
+                        <a href="/corporate-events/" class="fdB"><span>CORPORATE EVENTS</span></a>
+                        <a href="/social-events/" class="fdB "><span>SOCIAL EVENTS</span></a>
+                        <a href="/weddings/" class="fdB "><span>WEDDINGS</span></a>
+                        <a href="/wedding-venue-styling/" class="fdB"><span>WEDDING VENUE STYLING</span></a>
+                        <a href="/product-launches/" class="fdB"><span>PRODUCT LAUNCHES</span></a>
+                        <a href="/online-events/" class="fdB"><span>ONLINE EVENTS</span></a>
+                        <a href="/event-consultation/" class="fdB"><span>EVENT CONSULTATION</span></a>
 
                     </div>
                     <div id="cacheMenuDr" class="hideMO"></div>
@@ -146,4 +146,4 @@ padding:30px !important;
             <div id="scrollDown"></div>
             <div id="cacheMenu"></div>
 
-            <?php include_once('api/footer2.php');?>
+            <?php include_once('/footer2.php');?>

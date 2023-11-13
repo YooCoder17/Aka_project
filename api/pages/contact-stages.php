@@ -1,4 +1,4 @@
-<?php include_once('api/header2.php');?>
+<?php include_once('/header2.php');?>
 
 <body class="stories-template-default single single-stories postid-233">
     <div class="wrapper" id="barba-wrapper">
@@ -141,4 +141,4 @@ The services described in the contracts gleaned from our proposals would then ne
             <div id="scrollDown"></div>
             <div id="cacheMenu"></div>
 
-            <?php include_once('api/footer2.php');?>
+            <?php include_once('/footer2.php');?>

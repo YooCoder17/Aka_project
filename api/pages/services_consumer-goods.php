@@ -1,4 +1,4 @@
-<?php include_once('api/header2.php');?>
+<?php include_once('/header2.php');?>
 
 <body class="services-template-default single single-services postid-228">
     <div class="wrapper" id="barba-wrapper">
@@ -55,4 +55,4 @@
                 </div>
             </div>
 
-            <?php include_once('api/footer2.php');?>
+            <?php include_once('/footer2.php');?>

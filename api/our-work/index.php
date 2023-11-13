@@ -1,4 +1,4 @@
-<?php include_once('api/header2.php');?>
+<?php include_once('/header2.php');?>
 <body class="home page-template page-template-home-template page-template-home-template-php page page-id-5">
     <div class="wrapper" id="barba-wrapper">
         <div class="barba-container scrollTop" data-namespace="home-template.php">
@@ -39,37 +39,37 @@
 					}
 				</style>
                 <div class="w50 menuHome hideMO our-work-blogs">
-                    <a href="<?php echo $baseHref;?>/asa-networking-now-presentation/"
+                    <a href="/asa-networking-now-presentation/"
                         class="w50 hideMO boxHome smBoxHome boxLiens">
                         <div>
                             <p class="nav">ASA NETWORKING NOW PRESENTATION</p>
                         </div>
                     </a>
-                    <a href="<?php echo $baseHref;?>/milk-cosmetics-product-launch/" 
+                    <a href="/milk-cosmetics-product-launch/" 
                         class="w50 hideMO boxHome smBoxHome boxLiens">
                         <div>
                             <p class="nav">MILK COSMETICS PRODUCT LAUNCH</p>
                         </div>
                     </a>
-                    <a href="<?php echo $baseHref;?>/asa-networking-now-speaker-and-dinner/"
+                    <a href="/asa-networking-now-speaker-and-dinner/"
                         class="w50 hideMO boxHome smBoxHome boxLiens">
                         <div>
                             <p class="nav">ASA NETWORKING NOW SPEAKER AND DINNER</p>
                         </div>
                     </a>
-                    <a href="<?php echo $baseHref;?>/abi-and-bisi-wedding-day/"
+                    <a href="/abi-and-bisi-wedding-day/"
                         class="w50 hideMO boxHome smBoxHome boxLiens">
                         <div>
                             <p class="nav">ABI AND BISI WEDDING DAY</p>
                         </div>
                     </a>
-                    <a href="<?php echo $baseHref;?>/heritage-fashion-show/"
+                    <a href="/heritage-fashion-show/"
                         class="w50 hideMO boxHome smBoxHome boxLiens">
                         <div>
                             <p class="nav">HERITAGE FASHION SHOW </p>
                         </div>
                     </a>
-                    <a href="<?php echo $baseHref;?>/cowshed-product-launch/"
+                    <a href="/cowshed-product-launch/"
                         class="w50 hideMO boxHome smBoxHome boxLiens">
                         <div>
                             <p class="nav">COWSHED PRODUCT LAUNCH </p>
@@ -80,4 +80,4 @@
                 <p id="legalhome" class="hideMO"><a href="#">Legal</a> - <a href="#">Privacy</a></p>
 
             </div>
-            <?php include_once('api/footer2.php');?>
+            <?php include_once('/footer2.php');?>

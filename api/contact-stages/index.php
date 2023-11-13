@@ -1,4 +1,4 @@
-<?php include_once('api/header2.php');?>
+<?php include_once('/header2.php');?>
 
 <body class="stories-template-default single single-stories postid-233">
     <div class="wrapper" id="barba-wrapper">
@@ -21,18 +21,18 @@
                     <a id="scrollDownLink2" class="scrollDown"></a>
                     <div id="colDroite2" class="menuDr menuVertical bgBlanc hideMO">
                         <h2 class="titreBloc miniTitre" style="padding:40px"><span>Contact Stages</span></h2>
-                        <a href="api/service-details/" class="fdB "><span>SERVICE DETAILS</span></a>
-                        <a href="api/media-and-publicity/" class="fdB"><span>MEDIA &
+                        <a href="/service-details/" class="fdB "><span>SERVICE DETAILS</span></a>
+                        <a href="/media-and-publicity/" class="fdB"><span>MEDIA &
                                 PUBLICITY</span></a>
-                        <a href="api/corporate-events/" class="fdB"><span>CORPORATE
+                        <a href="/corporate-events/" class="fdB"><span>CORPORATE
                                 EVENTS</span></a>
-                        <a href="api/social-events/" class="fdB "><span>SOCIAL EVENTS</span></a>
-                        <!--<a href="api/weddings/" class="fdB "><span>WEDDINGS</span></a>-->
-                        <a href="api/wedding-venue-styling/" class="fdB"><span>WEDDING VENUE
+                        <a href="/social-events/" class="fdB "><span>SOCIAL EVENTS</span></a>
+                        <!--<a href="/weddings/" class="fdB "><span>WEDDINGS</span></a>-->
+                        <a href="/wedding-venue-styling/" class="fdB"><span>WEDDING VENUE
                                 STYLING</span></a>
-                        <a href="api/product-launches/" class="fdB"><span>PRODUCT
+                        <a href="/product-launches/" class="fdB"><span>PRODUCT
                                 LAUNCHES</span></a>
-                        <a href="api/online-events/" class="fdB"><span>ONLINE EVENTS</span></a>
+                        <a href="/online-events/" class="fdB"><span>ONLINE EVENTS</span></a>
                       
                     </div>
                     <div id="cacheMenuDr" class="hideMO"></div>
@@ -168,4 +168,4 @@ The services described in the contracts gleaned from our proposals would then ne
             <div id="scrollDown"></div>
             <div id="cacheMenu"></div>
 
-            <?php include_once('api/footer2.php');?>
+            <?php include_once('/footer2.php');?>

@@ -28,38 +28,38 @@
         <ul id="menuprincipal" class="menu">
             <li id="menu-item-49"
                 class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-49">
-                <a href="<?php echo $baseHref;?>/">Home</a>
+                <a href="/">Home</a>
             </li>
             <li id="menu-item-47" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-47"><a
-                    href="<?php echo $baseHref;?>/about-us/">About Us</a></li>
+                    href="/about-us/">About Us</a></li>
             <li id="menu-item-122" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-122"><a
-                    href="<?php echo $baseHref;?>/public-relations/">Public Relation Services</a></li>
+                    href="/public-relations/">Public Relation Services</a></li>
             <li id="menu-item-268"
                 class="menu-item menu-item-type-post_type menu-item-object-page page_item page-item-7 current_page_item menu-item-268">
-                <a href="<?php echo $baseHref;?>/service-details/">Event Services</a>
+                <a href="/service-details/">Event Services</a>
             </li>
 			 <li id="menu-item-268"
                 class="menu-item menu-item-type-post_type menu-item-object-page page_item page-item-7 current_page_item menu-item-268">
-                <a href="<?php echo $baseHref;?>/service-details/">Service Details</a>
+                <a href="/service-details/">Service Details</a>
             </li>
             <li id="menu-item-268"
                 class="menu-item menu-item-type-post_type menu-item-object-page page_item page-item-7 current_page_item menu-item-268">
-                <a href="<?php echo $baseHref;?>/our-work/">Our Work</a>
+                <a href="/our-work/">Our Work</a>
             </li>
             
              <li id="menu-item-268"
                 class="menu-item menu-item-type-post_type menu-item-object-page page_item page-item-7 current_page_item menu-item-268">
-                <a href="<?php echo $baseHref;?>/testimonials/">Testimonials</a>
+                <a href="/testimonials/">Testimonials</a>
             </li>
             
             <li id="menu-item-268"
                 class="menu-item menu-item-type-post_type menu-item-object-page page_item page-item-7 current_page_item menu-item-268">
-                <a href="<?php echo $baseHref;?>/gallery/">Gallery</a>
+                <a href="/gallery/">Gallery</a>
             </li>
             
             <li id="menu-item-268"
                 class="menu-item menu-item-type-post_type menu-item-object-page page_item page-item-7 current_page_item menu-item-268">
-                <a href="<?php echo $baseHref;?>/blog/">Blog</a>
+                <a href="/blog/">Blog</a>
             </li>
             
             <div class="dropMenuHolder">
@@ -75,19 +75,19 @@
             <li id="menu-item-269" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-269"><a
                     href="#">Jobs</a></li>-->
             <li id="menu-item-48" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-48"><a
-                    href="<?php echo $baseHref;?>/contact-us/">Contact</a></li>
+                    href="/contact-us/">Contact</a></li>
         </ul>
     </div>
     <!--    <p id="copyright"><a href="#" target="_blank">Created by <span><img src="/assets/atelierdesign.svg"
                     alt="Atelier Design" /></span></a></p>-->
     <p id="legalLien"><a href="#">Legal</a> - <a href="#">Privacy</a></p>
 </nav>
-<a href="<?php echo $baseHref;?>/" id="logo3" class="logoClip blancClip">
+<a href="/" id="logo3" class="logoClip blancClip">
 
     <img src="/assets/asa-logo.png" alt="logo-image">
 </a>
 <a id="menuLink3" class="m blancClip">Menu<div><span></span><span></span><span></span></div></a>
-<a href="<?php echo $baseHref;?>/" id="logo4" class="logoClip bleuClip">
+<a href="/" id="logo4" class="logoClip bleuClip">
     <img src="/assets/asa-logo.png" alt="logo-image">
 </a>
 <a id="menuLink4" class="m bleuClip">Menu<div><span></span><span></span><span></span></div></a>

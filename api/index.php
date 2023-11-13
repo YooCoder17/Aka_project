@@ -33,26 +33,26 @@
                     </a>
                 </div>
                 <div class="w50 menuHome hideMO">
-                    <a href="<?php echo $baseHref;?>/public-relations/"
+                    <a href="/public-relations/"
                         class="w50 hideMO boxHome smBoxHome boxLiens">
                         <div>
                             <p class="nav">PUBLIC RELATION SERVICES</p>
                         </div>
                     </a>
                     <!--/service-details/-->
-                    <a href="<?php echo $baseHref;?>/services/"
+                    <a href="/services/"
                         class="w50 hideMO boxHome smBoxHome boxLiens">
                         <div>
                             <p class="nav">EVENT SERVICES</p>
                         </div>
                     </a>
-                    <!--<a href="<?php echo $baseHref;?>/services/"-->
+                    <!--<a href="/services/"-->
                     <!--    class="w50 hideMO boxHome smBoxHome boxLiens">-->
                     <!--    <div>-->
                     <!--        <p class="nav">EVENT SERVICES</p>-->
                     <!--    </div>-->
                     <!--</a>-->
-                    <a href="<?php echo $baseHref;?>/about-us/"
+                    <a href="/about-us/"
                         class="w50 hideMO boxHome smBoxHome boxLiens">
                         <div>
                             <p class="nav">ABOUT US</p>
@@ -148,7 +148,7 @@
                     </div>
                 </div>
 
-                <p id="legalhome" class="hideMO"><a href="<?php echo $baseHref;?>/privacy-and-cookies-policy/">Legal</a> - <a href="<?php echo $baseHref;?>/privacy-and-cookies-policy/">Privacy</a></p>
+                <p id="legalhome" class="hideMO"><a href="/privacy-and-cookies-policy/">Legal</a> - <a href="/privacy-and-cookies-policy/">Privacy</a></p>
 
             </div>
             <?php include_once("footer2.php");?>

@@ -1,4 +1,4 @@
-<?php include_once('api/header2.php');?>
+<?php include_once('/header2.php');?>
 
 <body class="services-template-default single single-services postid-230">
     <div class="wrapper" id="barba-wrapper">
@@ -47,13 +47,13 @@
                 </div>
                 <div id="colDroite1" class="menuDr menuVertical">
                     <h2 class="titreBloc miniTitre white"><span>Sectors</span></h2>
-<a href="api/public-relations-health/"><span>Health</span></a>
-                    <a href="api/public-relations-technology/"><span>Technology</span></a>
-                    <a href="api/public-relations-consumer-goods/"><span>Consumer goods</span></a>
-                    <a href="api/public-relations-trade/"><span>Trade</span></a>
-                    <a href="api/public-relations-energy-environment/"><span>Energy &#038; Environment</span></a>
-                    <a href="api/public-relations-services-competition/"><span>Competition</span></a>
+<a href="/public-relations-health/"><span>Health</span></a>
+                    <a href="/public-relations-technology/"><span>Technology</span></a>
+                    <a href="/public-relations-consumer-goods/"><span>Consumer goods</span></a>
+                    <a href="/public-relations-trade/"><span>Trade</span></a>
+                    <a href="/public-relations-energy-environment/"><span>Energy &#038; Environment</span></a>
+                    <a href="/public-relations-services-competition/"><span>Competition</span></a>
                 </div>
             </div>
 
-            <?php include_once('api/footer2.php');?>
+            <?php include_once('/footer2.php');?>

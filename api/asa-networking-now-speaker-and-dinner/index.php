@@ -1,4 +1,4 @@
-<?php include_once('api/header2.php');?>
+<?php include_once('/header2.php');?>
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/css/bootstrap.min.css">
 <style>
 
@@ -56,12 +56,12 @@
                     <a id="scrollDownLink2" class="scrollDown"></a>
                     <div id="colDroite2" class="menuDr menuVertical bgBlanc hideMO">
                         <h2 class="titreBloc miniTitre" style="padding: 30px"><span>Sectors</span></h2>
-                       <a href="<?php echo $baseHref;?>/asa-networking-now-presentation/" class="fdB"><span>ASA NETWORKING NOW PRESENTATION</span></a>
-                        <a href="<?php echo $baseHref;?>/milk-cosmetics-product-launch/" class="fdB"><span>MILK COSMETICS PRODUCT LAUNCH</span></a>
-                        <a href="<?php echo $baseHref;?>/asa-networking-now-speaker-and-dinner/" class="fdB"><span>ASA NETWORKING NOW SPEAKER AND DINNER</span></a>
-                        <a href="<?php echo $baseHref;?>/abi-and-bisi-wedding-day/" class="fdB "><span>ABI AND BISI WEDDING DAY</span></a>
-                        <a href="<?php echo $baseHref;?>/heritage-fashion-show/" class="fdB "><span>HERITAGE FASHION SHOW</span></a>
-                        <a href="<?php echo $baseHref;?>/cowshed-product-launch/" class="fdB "><span>COWSHED PRODUCT LAUNCH</span></a>
+                       <a href="/asa-networking-now-presentation/" class="fdB"><span>ASA NETWORKING NOW PRESENTATION</span></a>
+                        <a href="/milk-cosmetics-product-launch/" class="fdB"><span>MILK COSMETICS PRODUCT LAUNCH</span></a>
+                        <a href="/asa-networking-now-speaker-and-dinner/" class="fdB"><span>ASA NETWORKING NOW SPEAKER AND DINNER</span></a>
+                        <a href="/abi-and-bisi-wedding-day/" class="fdB "><span>ABI AND BISI WEDDING DAY</span></a>
+                        <a href="/heritage-fashion-show/" class="fdB "><span>HERITAGE FASHION SHOW</span></a>
+                        <a href="/cowshed-product-launch/" class="fdB "><span>COWSHED PRODUCT LAUNCH</span></a>
 
 
                     </div>
@@ -146,7 +146,7 @@ The information and the networking were very useful according to some of our gue
             <div id="scrollDown"></div>
             <div id="cacheMenu"></div>
 
-            <?php include_once('api/footer2.php');?>
+            <?php include_once('/footer2.php');?>
             <script>
 //                 $(function(){
 //   var tickerLength = $('#colDroite23 a').length;
