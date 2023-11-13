@@ -63,27 +63,27 @@
                                 <h2 class="hideMO">SERVICES
                                     <br>
                                     <div id="image-container">
-                                        <img src="../ASA Events Images/Wedding Venue Styling/Wedding Venue Styling (1).jpg"
+                                        <img src="/assets/ASA Events Images/Wedding Venue Styling/Wedding Venue Styling (1).jpg"
                                             height="450" alt="">
-                                        <img src="../ASA Events Images/Wedding Venue Styling/Wedding Venue Styling (2).jpg"
+                                        <img src="/assets/ASA Events Images/Wedding Venue Styling/Wedding Venue Styling (2).jpg"
                                             height="450" alt="">
-                                        <img src="../ASA Events Images/Wedding Venue Styling/Wedding Venue Styling (3).jpg"
+                                        <img src="/assets/ASA Events Images/Wedding Venue Styling/Wedding Venue Styling (3).jpg"
                                             height="450" alt="">
-                                        <img src="../ASA Events Images/Wedding Venue Styling/Wedding Venue Styling (4).jpg"
+                                        <img src="/assets/ASA Events Images/Wedding Venue Styling/Wedding Venue Styling (4).jpg"
                                             height="450" alt="" style="margin-right:0px" alt="">
-                                        <img src="../ASA Events Images/Wedding Venue Styling/Wedding Venue Styling (5).jpg"
+                                        <img src="/assets/ASA Events Images/Wedding Venue Styling/Wedding Venue Styling (5).jpg"
                                             height="450" alt="">                                            
-                                        <img src="../ASA Events Images/Wedding Venue Styling/Wedding Venue Styling (6).jpg"
+                                        <img src="/assets/ASA Events Images/Wedding Venue Styling/Wedding Venue Styling (6).jpg"
                                             height="450" alt="">
-                                        <img src="../ASA Events Images/Wedding Venue Styling/Wedding Venue Styling (7).jpg"
+                                        <img src="/assets/ASA Events Images/Wedding Venue Styling/Wedding Venue Styling (7).jpg"
                                             height="450" alt="">                                            
-                                        <img src="../ASA Events Images/Wedding Venue Styling/Wedding Venue Styling (8).jpg"
+                                        <img src="/assets/ASA Events Images/Wedding Venue Styling/Wedding Venue Styling (8).jpg"
                                             height="450" style="margin-right:0px" alt="">
-                                        <img src="../ASA Events Images/Wedding Venue Styling/Wedding Venue Styling (9).jpg"
+                                        <img src="/assets/ASA Events Images/Wedding Venue Styling/Wedding Venue Styling (9).jpg"
                                             height="450" alt="">                                            
-                                        <img src="../ASA Events Images/Wedding Venue Styling/Wedding Venue Styling (10).jpg"
+                                        <img src="/assets/ASA Events Images/Wedding Venue Styling/Wedding Venue Styling (10).jpg"
                                             height="450" alt="">
-                                        <img src="../ASA Events Images/Wedding Venue Styling/Wedding Venue Styling (11).jpg"
+                                        <img src="/assets/ASA Events Images/Wedding Venue Styling/Wedding Venue Styling (11).jpg"
                                             height="450" alt="">   
                                     </div>
 

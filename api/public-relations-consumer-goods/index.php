@@ -13,7 +13,7 @@
                 <a href="https://cosmosclassics.com/nova/" id="logo1" class="logoClip blancClip">
                     <img src="logo/asa-logo.png" alt='logo'>
                 </a>
-                <a href="https://cosmosclassics.com/nova" id="f1" class="nClip"><img src="../assets/logoiconeblanc.png"
+                <a href="https://cosmosclassics.com/nova" id="f1" class="nClip"><img src="/assets/logoiconeblanc.png"
                         alt="N" /></a>
                 <div id="titreVertical1" class="titreVertClip hideMO">
                     <p>PR Services</p>

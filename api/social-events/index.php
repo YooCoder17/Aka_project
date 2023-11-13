@@ -59,17 +59,17 @@
                                 <h2 class="hideMO">SERVICES
                                     <br>
                                     <div id="image-container">
-                                        <img src="../ASA Events Images/Social Events/ASA Networking Now Presentation (2).jpg"
+                                        <img src="/assets/ASA Events Images/Social Events/ASA Networking Now Presentation (2).jpg"
                                             height="450" alt="">
-                                        <img src="../ASA Events Images/Social Events/Charity Gala (9).png"
+                                        <img src="/assets/ASA Events Images/Social Events/Charity Gala (9).png"
                                             height="450" alt="">
-                                        <img src="../ASA Events Images/Social Events/Charity Gala (10).png"
+                                        <img src="/assets/ASA Events Images/Social Events/Charity Gala (10).png"
                                             height="450" alt="">
-                                        <img src="../ASA Events Images/Social Events/Heritage Fashion Show (9).jpg"
+                                        <img src="/assets/ASA Events Images/Social Events/Heritage Fashion Show (9).jpg"
                                             height="450" alt="" style="margin-right:0px" alt="">
-                                        <img src="../ASA Events Images/Social Events/Heritage Fashion Show (10).jpg"
+                                        <img src="/assets/ASA Events Images/Social Events/Heritage Fashion Show (10).jpg"
                                             height="450" alt="">                                            
-                                        <img src="../ASA Events Images/Social Events/Milk Cosmetics Product Launch (10).jpg"
+                                        <img src="/assets/ASA Events Images/Social Events/Milk Cosmetics Product Launch (10).jpg"
                                             height="450" alt="">
                                     </div>
 

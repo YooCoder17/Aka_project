@@ -31,7 +31,7 @@
                     </a>
                     <a href="https://caebusinesssolutions.co.uk/aka/" id="f2" class="nClip">
                         <!--<img-->
-                        <!--    src="../assets/logoiconebleu.png" alt="N" />-->
+                        <!--    src="/assets/logoiconebleu.png" alt="N" />-->
                             </a>
                     <div id="titreVertical2" class="titreVertClip hideMO bleuClip">
                         <p>
@@ -62,15 +62,15 @@
                                 <h2 class="hideMO">SERVICES
                                     <br>
                                     <div id="image-container">
-                                        <img src="../ASA Events Images/Corporate Events/ASA Networking Now Presentation (2).jpg"
+                                        <img src="/assets/ASA Events Images/Corporate Events/ASA Networking Now Presentation (2).jpg"
                                             height="450" alt="">
-                                        <img src="../ASA Events Images/Corporate Events/ASA Networking Now Speaker and Dinner (9).jpg"
+                                        <img src="/assets/ASA Events Images/Corporate Events/ASA Networking Now Speaker and Dinner (9).jpg"
                                             height="450" alt="">
-                                        <img src="../ASA Events Images/Corporate Events/Charity Gala (8).png"
+                                        <img src="/assets/ASA Events Images/Corporate Events/Charity Gala (8).png"
                                             height="450" alt="">
-                                        <img src="../ASA Events Images/Corporate Events/Charity Gala (11).png"
+                                        <img src="/assets/ASA Events Images/Corporate Events/Charity Gala (11).png"
                                             height="450" alt="" style="margin-right:0px" alt="">
-                                        <img src="../ASA Events Images/Corporate Events/Milk Cosmetics Product Launch (4).jpg"
+                                        <img src="/assets/ASA Events Images/Corporate Events/Milk Cosmetics Product Launch (4).jpg"
                                             height="450" alt="">                                            
                                     </div>
 

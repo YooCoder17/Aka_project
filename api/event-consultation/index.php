@@ -31,7 +31,7 @@
                     </a>
                     <a href="https://caebusinesssolutions.co.uk/aka/" id="f2" class="nClip">
                         <!--<img-->
-                        <!--    src="../assets/logoiconebleu.png" alt="N" />-->
+                        <!--    src="/assets/logoiconebleu.png" alt="N" />-->
                             </a>
                     <div id="titreVertical2" class="titreVertClip hideMO bleuClip">
                         <p>
@@ -63,21 +63,21 @@
                                 <h2 class="hideMO">SERVICES
                                     <br>
                                     <div id="image-container">
-                                        <img src="../ASA Events Images/Event Consultation Services/Consultation Services.png"
+                                        <img src="/assets/ASA Events Images/Event Consultation Services/Consultation Services.png"
                                             height="450" alt="">
-                                        <img src="../ASA Events Images/Event Consultation Services/Corporate Events.jpg"
+                                        <img src="/assets/ASA Events Images/Event Consultation Services/Corporate Events.jpg"
                                             height="450" alt="">
-                                        <img src="../ASA Events Images/Event Consultation Services/Media and Publicity.jpg"
+                                        <img src="/assets/ASA Events Images/Event Consultation Services/Media and Publicity.jpg"
                                             height="450" alt="">
-                                        <img src="../ASA Events Images/Event Consultation Services/Online Events.jpg"
+                                        <img src="/assets/ASA Events Images/Event Consultation Services/Online Events.jpg"
                                             height="450" alt="" style="margin-right:0px" alt="">
-                                        <img src="../ASA Events Images/Event Consultation Services/Public Relations.jpg"
+                                        <img src="/assets/ASA Events Images/Event Consultation Services/Public Relations.jpg"
                                             height="450" alt="">                                            
-                                        <img src="../ASA Events Images/Event Consultation Services/Social Events.jpg"
+                                        <img src="/assets/ASA Events Images/Event Consultation Services/Social Events.jpg"
                                             height="450" alt="">
-                                        <img src="../ASA Events Images/Event Consultation Services/Venue Styling.jpg"
+                                        <img src="/assets/ASA Events Images/Event Consultation Services/Venue Styling.jpg"
                                             height="450" alt="">                                            
-                                        <img src="../ASA Events Images/Event Consultation Services/Weddings.jpg"
+                                        <img src="/assets/ASA Events Images/Event Consultation Services/Weddings.jpg"
                                             height="450" style="margin-right:0px" alt="">
                                     </div>
 

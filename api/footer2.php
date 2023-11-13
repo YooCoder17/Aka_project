@@ -34,34 +34,10 @@
                     href="/about-us/">About Us</a></li>
             <li id="menu-item-122" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-122"><a
                     href="/public-relations/">Public Relation Services</a></li>
-            <li id="menu-item-268"
-                class="menu-item menu-item-type-post_type menu-item-object-page page_item page-item-7 current_page_item menu-item-268">
-                <a href="/service-details/">Event Services</a>
-            </li>
 			 <li id="menu-item-268"
                 class="menu-item menu-item-type-post_type menu-item-object-page page_item page-item-7 current_page_item menu-item-268">
                 <a href="/service-details/">Service Details</a>
-            </li>
-            <li id="menu-item-268"
-                class="menu-item menu-item-type-post_type menu-item-object-page page_item page-item-7 current_page_item menu-item-268">
-                <a href="/our-work/">Our Work</a>
-            </li>
-            
-             <li id="menu-item-268"
-                class="menu-item menu-item-type-post_type menu-item-object-page page_item page-item-7 current_page_item menu-item-268">
-                <a href="/testimonials/">Testimonials</a>
-            </li>
-            
-            <li id="menu-item-268"
-                class="menu-item menu-item-type-post_type menu-item-object-page page_item page-item-7 current_page_item menu-item-268">
-                <a href="/gallery/">Gallery</a>
-            </li>
-            
-            <li id="menu-item-268"
-                class="menu-item menu-item-type-post_type menu-item-object-page page_item page-item-7 current_page_item menu-item-268">
-                <a href="/blog/">Blog</a>
-            </li>
-            
+            </li>           
             <div class="dropMenuHolder">
                 <ul>
                    

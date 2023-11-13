@@ -65,21 +65,21 @@
                                 <h2 class="hideMO">SERVICES
                                     <br>
                                     <div id="image-container">
-                                        <img src="../ASA Events Images/Contact Stages/Consultation Services.png"
+                                        <img src="/assets/ASA Events Images/Contact Stages/Consultation Services.png"
                                             height="450" alt="">
-                                        <img src="../ASA Events Images/Contact Stages/Corporate Events.jpg"
+                                        <img src="/assets/ASA Events Images/Contact Stages/Corporate Events.jpg"
                                             height="450" alt="">
-                                        <img src="../ASA Events Images/Contact Stages/Media and Publicity.jpg"
+                                        <img src="/assets/ASA Events Images/Contact Stages/Media and Publicity.jpg"
                                             height="450" alt="">
-                                        <img src="../ASA Events Images/Contact Stages/Online Events.jpg"
+                                        <img src="/assets/ASA Events Images/Contact Stages/Online Events.jpg"
                                             height="450" alt="" style="margin-right:0px" alt="">
-                                        <img src="../ASA Events Images/Contact Stages/Public Relations.jpg"
+                                        <img src="/assets/ASA Events Images/Contact Stages/Public Relations.jpg"
                                             height="450" alt="">                                            
-                                        <img src="../ASA Events Images/Contact Stages/Social Events.jpg"
+                                        <img src="/assets/ASA Events Images/Contact Stages/Social Events.jpg"
                                             height="450" alt="">
-                                        <img src="../ASA Events Images/Contact Stages/Venue Styling.jpg"
+                                        <img src="/assets/ASA Events Images/Contact Stages/Venue Styling.jpg"
                                             height="450" alt="">                                            
-                                        <img src="../ASA Events Images/Contact Stages/Weddings.jpg"
+                                        <img src="/assets/ASA Events Images/Contact Stages/Weddings.jpg"
                                             height="450" style="margin-right:0px" alt="">
                                     </div>
 

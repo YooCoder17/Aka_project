@@ -16,7 +16,7 @@
                 </a>
                 </a>
                 <a href="https://caebusinesssolutions.co.uk/aka/" id="f1" class="nClip"> 
-                <!--<img src="../assets/logoiconeblanc.png"-->
+                <!--<img src="/assets/logoiconeblanc.png"-->
                 <!--        alt="N" />-->
                         
                         </a>

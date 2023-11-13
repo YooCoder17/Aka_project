@@ -31,7 +31,7 @@ padding:30px !important;
                     </a>
                     <a href="https://caebusinesssolutions.co.uk/aka/" id="f2" class="nClip">
                         <!--<img-->
-                        <!--    src="../assets/logoiconebleu.png" alt="N" />-->
+                        <!--    src="/assets/logoiconebleu.png" alt="N" />-->
                             </a>
                     <div id="titreVertical2" class="titreVertClip hideMO bleuClip">
                         <p>
@@ -61,13 +61,13 @@ padding:30px !important;
                                 <h2 class="hideMO">SERVICES
                                     <br>
                                     <div id="image-container">
-                                        <img src="../ASA Events Images/Media and Publicity/Media and Publicity (1).jpg"
+                                        <img src="/assets/ASA Events Images/Media and Publicity/Media and Publicity (1).jpg"
                                             height="450" alt="">
-                                        <img src="../ASA Events Images/Media and Publicity/Media and Publicity (2).jpg"
+                                        <img src="/assets/ASA Events Images/Media and Publicity/Media and Publicity (2).jpg"
                                             height="450" alt="">
-                                        <img src="../ASA Events Images/Media and Publicity/Media and Publicity (3).jpg"
+                                        <img src="/assets/ASA Events Images/Media and Publicity/Media and Publicity (3).jpg"
                                             height="450" alt="">
-                                        <img src="../ASA Events Images/Media and Publicity/Media and Publicity (4).jpg"
+                                        <img src="/assets/ASA Events Images/Media and Publicity/Media and Publicity (4).jpg"
                                             height="450" alt="" style="margin-right:0px" alt="">
                                     </div>
 
