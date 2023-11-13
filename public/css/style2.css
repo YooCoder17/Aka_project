@@ -187,10 +187,14 @@ h1 {
   padding: 9vw 2vw 2vw; }
 
 #colDroite2 .titreBloc {
-  border-color: #e5e7eb; }
-  #colDroite2 .titreBloc h2 {
-    color: rgba(19, 41, 75, 0.5) !important; }
-
+  border-color: #e5e7eb; 
+}
+#colDroite2 .titreBloc h2 {
+    color: rgba(19, 41, 75, 0.5) !important; 
+}
+h1.texteTitre.blocCont.noPadBot.white span {
+  font-family: "Poppins-Light" !important;
+}
 .miniTitre,
 .miniTitre h2 {
   font-size: 10px !important;
@@ -5425,9 +5429,7 @@ body {
   #v.nav {
     height: 100px !important;
     margin-top: 0 !important; } }
-h1.texteTitre.blocCont.noPadBot.white {
-  font-family: "Poppins-Light" !important;
-}
+
 @media (max-width: 499px) {
   #newsBoxHome p.nav {
     padding: 0 !important; }
