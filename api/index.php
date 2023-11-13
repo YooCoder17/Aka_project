@@ -118,21 +118,20 @@
                                             <blockquote class="twitter-tweet">
                                                 <p lang="en" dir="ltr">we provide <a
                                                         href="https://twitter.com/hashtag/3D?src=hashtag_click">#3D</a>
-                                                    <a
-                                                        href="https://twitter.com/hashtag/walkthrough?src=hashtag_click">#walkthrough</a>.
-                                                    <a
+                                                    &nbsp;<a
+                                                        href="https://twitter.com/hashtag/walkthrough?src=hashtag_click">#walkthrough</a>
+                                                    &nbsp;<a
                                                         href="https://twitter.com/hashtag/animation?src=hashtag_click">#animation</a>
-                                                    services such as 3D <a
-                                                        href="https://twitter.com/hashtag/prototypes?src=hashtag_click">#prototypes</a>,
-                                                    special effects, 3D
-                                                    <a
-                                                        href="https://twitter.com/hashtag/modelling?src=hashtag_click">#modelling</a>
-                                                    <a
-                                                        href="https://twitter.com/hashtag/engineering?src=hashtag_click">#engineering</a>simulation
-                                                    <a
+                                                    &nbsp;services such as 3D&nbsp;<a
+                                                        href="https://twitter.com/hashtag/prototypes?src=hashtag_click">#prototypes</a>,&nbsp;special
+                                                    effects, 3D<a
+                                                        href="https://twitter.com/hashtag/modelling?src=hashtag_click">#modelling,</a>
+                                                    &nbsp;<a
+                                                        href="https://twitter.com/hashtag/engineering?src=hashtag_click">#engineering,</a>&nbsp;simulation,
+                                                    &nbsp;<a
                                                         href="https://twitter.com/hashtag/character?src=hashtag_click">#character</a>
-                                                    <a
-                                                        href="https://twitter.com/hashtag/animations?src=hashtag_click">#animations</a>and
+                                                    &nbsp;<a
+                                                        href="https://twitter.com/hashtag/animations?src=hashtag_click">#animations</a>&nbsp;and
                                                     more...
                                                 </p>
 
