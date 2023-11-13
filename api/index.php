@@ -40,7 +40,7 @@
                         </div>
                     </a>
                     <!--/service-details/-->
-                    <a href="/services/"
+                    <a href="/service-details/"
                         class="w50 hideMO boxHome smBoxHome boxLiens">
                         <div>
                             <p class="nav">EVENT SERVICES</p>
@@ -52,10 +52,10 @@
                     <!--        <p class="nav">EVENT SERVICES</p>-->
                     <!--    </div>-->
                     <!--</a>-->
-                    <a href="/about-us/"
+                    <a href="/contact-us/"
                         class="w50 hideMO boxHome smBoxHome boxLiens">
                         <div>
-                            <p class="nav">ABOUT US</p>
+                            <p class="nav">CONTACT US</p>
                         </div>
                     </a>
                     <div id="twitterBoxHome" class="w50 hideMO boxHome smBoxHome boxLiens">
