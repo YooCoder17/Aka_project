@@ -136,7 +136,7 @@
                                                 </p>
 
                                                 <a
-                                                    href="https://twitter.com/asaeventsuk/status/1397494513153806337?ref_src=twsrc%5Etfw">Jul
+                                                    href="https://twitter.com/caeconsultancy/status/1548191608658468866">Jul
                                                     16, 2022</a>
                                             </blockquote>
                                     </li>

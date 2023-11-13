@@ -4349,6 +4349,7 @@ h2 {
       display: none !important; }
     #twitterBoxHome .juiz_last_tweet_inside.juiz_ltw_user_NoveBrussels,
     #twitterBoxHome .juiz_last_tweet_tweetlist {
+      font-size: large;
       max-height: 10vw !important;
       color: #13294b !important;
       color: white !important; }
