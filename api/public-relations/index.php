@@ -10,7 +10,7 @@
             <div class='ovelayBG'></div>
             <span id="bgBleu"></span>
             <div id="hea" class="services hideMO">
-                <a href="https://caebusinesssolutions.co.uk/aka/" id="logo1" class="logoClip blancClip">
+                <a href="/" id="logo1" class="logoClip blancClip">
                     <img src="/assets/asa-logo.png" alt='logo'>
                 </a>
                 <a href="https://cosmosclassics.com/nova" id="f1" class="nClip">

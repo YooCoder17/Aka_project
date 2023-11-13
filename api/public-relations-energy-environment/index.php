@@ -11,10 +11,10 @@
             <!-- <span id="bgBleu"></span> -->
             <span id="bgBleu"></span>
             <div id="hea" class="hideMO">
-                <a href="https://caebusinesssolutions.co.uk/aka/" id="logo1" class="logoClip blancClip">
+                <a href="/" id="logo1" class="logoClip blancClip">
                    <img src="/assets/asa-logo.png" alt='logo'>
                 </a>
-                <a href="https://caebusinesssolutions.co.uk/aka/" id="f1" class="nClip">
+                <a href="/" id="f1" class="nClip">
                     <!--<img src="/assets/logoiconeblanc.png"-->
                     <!--    alt="N" /></a>-->
                 <div id="titreVertical1" class="titreVertClip hideMO">

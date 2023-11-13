@@ -20,7 +20,7 @@
             <div id="menuCache"></div>
             <div id="bod" class="bgGrisClair bgStorie noHide">
                 <div id="cadreContent">
-                    <a href="https://caebusinesssolutions.co.uk/aka/" id="logo2" class="logoClip bleuClip hideMO">
+                    <a href="/" id="logo2" class="logoClip bleuClip hideMO">
                         <img src="/assets/asa-logo.png" alt='logo'>
                     </a>
                     <a href="" id="f2" class="nClip">
