@@ -1,4 +1,5 @@
-<?php include_once("header2.php");?>
+<?php include_once("header2.php"); ?>
+
 <body class="home page-template page-template-home-template page-template-home-template-php page page-id-5">
     <div class="wrapper" id="barba-wrapper">
         <div class="barba-container scrollTop" data-namespace="home-template.php">
@@ -9,16 +10,16 @@
                 data-src="/assets/reflection-45977.mp4,  assets/reflection-45977.mp4, assets/reflection-45977.mp4, assets/Gettyimages-143-37-9-Sec-1.mp4, assets/Gettyimages-168890703-9-Sec-4.mp4">
             </div>
             <div id="menuCache"></div>
-            <video style="background: black;" poster="/assets/turbine.jpg" class="bg-vid-home" id="bgvidHome" playsinline
-                muted autoplay>
+            <video style="background: black;" poster="/assets/turbine.jpg" class="bg-vid-home" id="bgvidHome"
+                playsinline muted autoplay>
             </video>
             <video style="background: black;" poster="/assets/turbine.jpg" class="bg-vid-home fade-out" id="bgvidHome-2"
                 playsinline muted>
             </video>
             <span id="bgBleu" class="fixe"></span>
             <div id="hea">
-                <a href="<?php echo $baseHref;?>" id="logo1" class="logoClip blancClip"><img
-                        src="/assets/asa-logo.png" alt="logo-image"></a>
+                <a href="<?php echo $baseHref; ?>" id="logo1" class="logoClip blancClip"><img src="/assets/asa-logo.png"
+                        alt="logo-image"></a>
                 <a href="#" id="f1" class="nClip"><img src="/assets/logoiconeblanc.png" alt="N" /></a>
                 <div id="titreVertical1" class="titreVertClip hideMO">
                     <p> </p>
@@ -33,15 +34,13 @@
                     </a>
                 </div>
                 <div class="w50 menuHome hideMO">
-                    <a href="/service-details/"
-                        class="w50 hideMO boxHome smBoxHome boxLiens">
+                    <a href="/service-details/" class="w50 hideMO boxHome smBoxHome boxLiens">
                         <div>
                             <p class="nav">CONSULTING SERVICES</p>
                         </div>
                     </a>
                     <!--/service-details/-->
-                    <a href="/public-relations/"
-                        class="w50 hideMO boxHome smBoxHome boxLiens">
+                    <a href="/public-relations/" class="w50 hideMO boxHome smBoxHome boxLiens">
                         <div>
                             <p class="nav">ABOUT</p>
                         </div>
@@ -52,8 +51,7 @@
                     <!--        <p class="nav">EVENT SERVICES</p>-->
                     <!--    </div>-->
                     <!--</a>-->
-                    <a href="/contact-us/"
-                        class="w50 hideMO boxHome smBoxHome boxLiens">
+                    <a href="/contact-us/" class="w50 hideMO boxHome smBoxHome boxLiens">
                         <div>
                             <p class="nav">CONTACT US</p>
                         </div>
@@ -95,6 +93,62 @@
                                     </svg>
                                 </span>
                             </a>
+
+                            <div class="juiz_last_tweet_inside juiz_ltw_user_NoveBrussels">
+                                <ul class="juiz_last_tweet_tweetlist">
+
+                                    <li class="juiz_last_tweet_item jltw_item_alone">
+
+                                        <!--<span class="juiz_lt_content">RT <a href="#"
+                                                class="juiz_last_tweet_tweetos" rel="nofollow"
+                                                target="_self">@BritChamBxl</a>: Virtual <a
+                                                href="#"
+                                                class="juiz_last_tweet_hastag" rel="nofollow"
+                                                target="_self">#Strasbourg</a> is continuing with our breakout room 2:
+                                            The Priorities of ITRE Committee⚡, where we are joined by MEP…</span>
+                                        <span class="juiz_last_tweet_footer_item">
+                                            <em class="juiz_last_tweet_inner juiz_last_tweet_metadata">Time ago <a
+                                                    href="#"
+                                                    target="_self" title="See the status">426 Days</a> <span
+                                                    class="juiz_ltw_source">via <a href="#"
+                                                        rel="nofollow">Twitter Web App</a></span></em>
+
+                                        </span>-->
+                                        <blockquote class="twitter-tweet">
+                                            <blockquote class="twitter-tweet">
+                                                <p lang="en" dir="ltr">we provide <a
+                                                        href="https://twitter.com/hashtag/3D?src=hashtag_click">#3D</a>
+                                                    <a
+                                                        href="https://twitter.com/hashtag/walkthrough?src=hashtag_click">#walkthrough</a>.
+                                                    <a
+                                                        href="https://twitter.com/hashtag/animation?src=hashtag_click">#animation</a>
+                                                    services such as 3D <a
+                                                        href="https://twitter.com/hashtag/prototypes?src=hashtag_click">#prototypes</a>,
+                                                    special effects, 3D
+                                                    <a
+                                                        href="https://twitter.com/hashtag/modelling?src=hashtag_click">#modelling</a>
+                                                    <a
+                                                        href="https://twitter.com/hashtag/engineering?src=hashtag_click">#engineering</a>simulation
+                                                    <a
+                                                        href="https://twitter.com/hashtag/character?src=hashtag_click">#character</a>
+                                                    <a
+                                                        href="https://twitter.com/hashtag/animations?src=hashtag_click">#animations</a>and
+                                                    more...
+                                                </p>
+
+                                                <a
+                                                    href="https://twitter.com/asaeventsuk/status/1397494513153806337?ref_src=twsrc%5Etfw">Jul
+                                                    16, 2022</a>
+                                            </blockquote>
+                                    </li>
+
+                                </ul>
+                                <p class="juiz_last_tweet_follow_us">
+                                    <span class="juiz_ltw_follow">Follow</span>
+                                    <a class="juiz_ltw_username" href="#">@caeconsultancy</a>
+                                    <span class="juiz_ltw_ontwitter">on twitter.</span>
+                                </p>
+                            </div>
                             <!--<a href="#" target="_blank" class="rm">
                                 <p class="readmore">
                                     Nove Twitter
@@ -104,7 +158,8 @@
                     </div>
                 </div>
 
-                <p id="legalhome" class="hideMO"><a href="/privacy-and-cookies-policy/">Legal</a> - <a href="/privacy-and-cookies-policy/">Privacy</a></p>
+                <p id="legalhome" class="hideMO"><a href="/privacy-and-cookies-policy/">Legal</a> - <a
+                        href="/privacy-and-cookies-policy/">Privacy</a></p>
 
             </div>
-            <?php include_once("footer2.php");?>
+            <?php include_once("footer2.php"); ?>
