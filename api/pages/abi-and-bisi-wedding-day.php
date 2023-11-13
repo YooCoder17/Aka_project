@@ -1,4 +1,4 @@
-<?php include_once('/header2.php');?>
+<?php include_once('/api/header2.php');?>
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/css/bootstrap.min.css">
 <style>
     .btn{
@@ -185,7 +185,7 @@ The ideal length of time for the reception is six hours. We scheduled in about a
             <div id="scrollDown"></div>
             <div id="cacheMenu"></div>
 
-            <?php include_once('/footer2.php');?>
+            <?php include_once('/api/footer2.php');?>
             <script>
 //                 $(function(){
 //   var tickerLength = $('#colDroite23 a').length;

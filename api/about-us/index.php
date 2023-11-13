@@ -1,4 +1,4 @@
-<?php include_once('/header2.php');?>
+<?php include_once('/api/header2.php');?>
 <style>
 #colDroite2.menuVertical {
     overflow:hidden;
@@ -249,4 +249,4 @@ This is something we strive to accomplish as a matter of course.</div>
             <div id="scrollDown"></div>
             <div id="cacheMenu"></div>
 
-            <?php include_once('/footer2.php');?>
+            <?php include_once('/api/footer2.php');?>

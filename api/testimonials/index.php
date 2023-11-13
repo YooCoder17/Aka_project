@@ -1,4 +1,4 @@
-<?php include_once('/header2.php');?>
+<?php include_once('/api/header2.php');?>
 <style>
 #colDroite2.menuVertical {
     overflow:hidden;
@@ -216,4 +216,4 @@ I cannot convey how much I appreciative I am of the ASA Events Management & Cons
             <div id="scrollDown"></div>
             <div id="cacheMenu"></div>
 
-            <?php include_once('/footer2.php');?>
+            <?php include_once('/api/footer2.php');?>
