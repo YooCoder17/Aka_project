@@ -132,14 +132,14 @@
 
 </script>
 
-<script src="<?php echo $baseHref; ?>/scripts/pace.min.js"></script>
-<script src="<?php echo $baseHref; ?>/scripts/modernizr-custom.js"></script>
-<script src="<?php echo $baseHref; ?>/scripts/barba.min.js"></script>
-<script src="<?php echo $baseHref; ?>/scripts/TweenMax.min.js"></script>
-<script src="<?php echo $baseHref; ?>/scripts/ScrollToPlugin.min.js"></script>
-<script src="<?php echo $baseHref; ?>/scripts/jquery.shave.min.js"></script>
-<script src="<?php echo $baseHref; ?>/scripts/mobile-chrome-vh-fix.js"></script>
-<script src="<?php echo $baseHref; ?>/scripts/script.js"></script>
+<script src="/scripts/pace.min.js"></script>
+<script src="/scripts/modernizr-custom.js"></script>
+<script src="/scripts/barba.min.js"></script>
+<script src="/scripts/TweenMax.min.js"></script>
+<script src="/scripts/ScrollToPlugin.min.js"></script>
+<script src="/scripts/jquery.shave.min.js"></script>
+<script src="/scripts/mobile-chrome-vh-fix.js"></script>
+<script src="/scripts/script.js"></script>
 <script>
 document.querySelector(".pace-progress").style.display = "none";
 // var oldOpen = XMLHttpRequest.prototype.open;

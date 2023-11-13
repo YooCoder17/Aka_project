@@ -47,12 +47,12 @@
                 </div>
                 <div id="colDroite1" class="menuDr menuVertical">
                     <h2 class="titreBloc miniTitre white"><span>Sectors</span></h2>
-<a href="<?php echo $baseHref; ?>/public-relations-health/"><span>Health</span></a>
-                    <a href="<?php echo $baseHref; ?>/public-relations-technology/"><span>Technology</span></a>
-                    <a href="<?php echo $baseHref; ?>/public-relations-consumer-goods/"><span>Consumer goods</span></a>
-                    <a href="<?php echo $baseHref; ?>/public-relations-trade/"><span>Trade</span></a>
-                    <a href="<?php echo $baseHref; ?>/public-relations-energy-environment/"><span>Energy &#038; Environment</span></a>
-                    <a href="<?php echo $baseHref; ?>/public-relations-services-competition/"><span>Competition</span></a>
+<a href="api/public-relations-health/"><span>Health</span></a>
+                    <a href="api/public-relations-technology/"><span>Technology</span></a>
+                    <a href="api/public-relations-consumer-goods/"><span>Consumer goods</span></a>
+                    <a href="api/public-relations-trade/"><span>Trade</span></a>
+                    <a href="api/public-relations-energy-environment/"><span>Energy &#038; Environment</span></a>
+                    <a href="api/public-relations-services-competition/"><span>Competition</span></a>
                 </div>
             </div>
 
