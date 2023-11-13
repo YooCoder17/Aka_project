@@ -1,4 +1,4 @@
-<?php include_once('/api/header2.php');?>
+<?php include_once(__DIR__.'/../header2.php');?>
  <style>
 					          #image-container {
     display: flex;
@@ -319,4 +319,4 @@
             <div id="scrollDown"></div>
             <div id="cacheMenu"></div>
 
-            <?php include_once('/api/footer2.php');?>
+            <?php include_once(__DIR__.'/../footer2.php');?>
