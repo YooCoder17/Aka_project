@@ -1,4 +1,4 @@
-<?php include_once(__DIR__.'/../header2.php');?>
+<?php include_once(__DIR__ . '/../header2.php'); ?>
 
 <body class="page-template page-template-page-services page-template-page-services-php page page-id-7">
     <div class="wrapper" id="barba-wrapper">
@@ -16,7 +16,7 @@
                 <a href="https://cosmosclassics.com/nova" id="f1" class="nClip">
                     <!--<img src="/assets/logoiconeblanc.png"-->
                     <!--    alt="N" />-->
-                        </a>
+                </a>
                 <div id="titreVertical1" class="titreVertClip">
                     <p>PR SERVICES</p>
                 </div>
@@ -36,13 +36,11 @@
                 </div>
                 <div id="colDroite1" class="menuDr menuVertical posFix">
                     <h2 class="titreBloc miniTitre white">Sectors</h2>
-                    <a href="/public-relations-health/"><span>Health</span></a>
-                    <a href="/public-relations-technology/"><span>Technology</span></a>
-                    <a href="/public-relations-consumer-goods/"><span>Consumer goods</span></a>
-                    <a href="/public-relations-trade/"><span>Trade</span></a>
-                    <a href="/public-relations-energy-environment/"><span>Energy &#038; Environment</span></a>
-                    <a href="/public-relations-services-competition/"><span>Competition</span></a>
+                    <a href="/" class="fdB"><span>HOME</span></a>
+                    <a href="/public-relations/" class="fdB"><span>ABOUT</span></a>
+                    <a href="/service-details/" class="fdB "><span>SERVICES</span></a>
+                    <a href="/contact-us/" class="fdB "><span>CONTACTS</span></a>
                 </div>
             </div>
 
-            <?php include_once(__DIR__.'/../footer2.php');?>
+            <?php include_once(__DIR__ . '/../footer2.php'); ?>
