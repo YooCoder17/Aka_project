@@ -1,7 +1,7 @@
 <nav>
     <div id="contact">
         <div>
-            <p>ASA Events Management & Consultancy Specialist LTD<br />
+            <p>CAE Business Consulting<br />
                 4th Floor<br />
                 18 St Cross St<br />
                 London<br />
