@@ -2,11 +2,10 @@
     <div id="contact">
         <div>
             <p>ASA Events Management & Consultancy Specialist LTD<br />
-                2nd Floor Quayside Tower<br />
-                252-260 Broad Street<br />
-                Birmingham<br />
-                West Midlands<br />
-                B1 2HF
+                4th Floor<br />
+                18 St Cross St<br />
+                London<br />
+                EC1N 8UN
             </p>
         </div>
         <div>
