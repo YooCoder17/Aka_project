@@ -60,7 +60,7 @@
                     </a>
                     <div id="twitterBoxHome" class="w50 hideMO boxHome smBoxHome boxLiens">
                         <div>
-                            <a href="https://twitter.com/asaeventsuk" target="_blank" class="nav">
+                            <a href="https://twitter.com/caeconsultancy" target="_blank" class="nav">
                                 <span class="logoTwitter hideOnSmallTw">
                                     <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
                                         version="1.1" id="Capa_1" x="0px" y="0px" viewBox="0 0 49.652 49.652"
@@ -95,50 +95,6 @@
                                     </svg>
                                 </span>
                             </a>
-
-                            <div class="juiz_last_tweet_inside juiz_ltw_user_NoveBrussels">
-                                <ul class="juiz_last_tweet_tweetlist">
-
-                                    <li class="juiz_last_tweet_item jltw_item_alone">
-
-                                        <!--<span class="juiz_lt_content">RT <a href="#"
-                                                class="juiz_last_tweet_tweetos" rel="nofollow"
-                                                target="_self">@BritChamBxl</a>: Virtual <a
-                                                href="#"
-                                                class="juiz_last_tweet_hastag" rel="nofollow"
-                                                target="_self">#Strasbourg</a> is continuing with our breakout room 2:
-                                            The Priorities of ITRE Committee⚡, where we are joined by MEP…</span>
-                                        <span class="juiz_last_tweet_footer_item">
-                                            <em class="juiz_last_tweet_inner juiz_last_tweet_metadata">Time ago <a
-                                                    href="#"
-                                                    target="_self" title="See the status">426 Days</a> <span
-                                                    class="juiz_ltw_source">via <a href="#"
-                                                        rel="nofollow">Twitter Web App</a></span></em>
-
-                                        </span>-->
-                                        <blockquote class="twitter-tweet">
-                                            <blockquote class="twitter-tweet">
-                                                <p lang="en" dir="ltr">Stunning social <a
-                                                        href="https://twitter.com/hashtag/eventplanning?src=hash&amp;ref_src=twsrc%5Etfw">#eventplanning</a>
-                                                    in Birmingham <a
-                                                        href="https://twitter.com/hashtag/UK?src=hash&amp;ref_src=twsrc%5Etfw">#UK</a>.
-                                                    <a
-                                                        href="https://twitter.com/asaeventsuk?ref_src=twsrc%5Etfw">@asaeventsuk</a>
-                                                    <a href="https://t.co/0tHzBe6EKJ">pic.twitter.com/0tHzBe6EKJ</a></p>
-                                                &mdash; ASA Events Management &amp; Consultancy Specialists
-                                                (@asaeventsuk) <a
-                                                    href="https://twitter.com/asaeventsuk/status/1397494513153806337?ref_src=twsrc%5Etfw">May
-                                                    26, 2021</a>
-                                            </blockquote>
-                                    </li>
-
-                                </ul>
-                                <p class="juiz_last_tweet_follow_us">
-                                    <span class="juiz_ltw_follow">Follow</span>
-                                    <a class="juiz_ltw_username" href="#">@NoveBrussels</a>
-                                    <span class="juiz_ltw_ontwitter">on twitter.</span>
-                                </p>
-                            </div>
                             <!--<a href="#" target="_blank" class="rm">
                                 <p class="readmore">
                                     Nove Twitter

@@ -3701,7 +3701,9 @@ h2 + .divider {
 
 .lastEl > .readmorefleche {
   margin-top: -3vw; }
-
+h2.titreBloc.miniTitre {
+  display: none;
+}
 #colDroite2.white h2.titreBloc.miniTitre {
   border-bottom: 1px solid rgba(255, 255, 255, 0.35) !important;
   color: rgba(255, 255, 255, 0.35); }

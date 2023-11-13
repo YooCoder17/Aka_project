@@ -1,24 +1,27 @@
-<?php include_once(__DIR__.'/../header2.php');?>
+<?php include_once(__DIR__ . '/../header2.php'); ?>
 <style>
-#colDroite2.menuVertical {
-    overflow:hidden;
-}
-.fdB{
-    text-align:left !important;
-    
-    font-size:12px;
-    color:#c1c1c1;
-    letter-spacing: 2px;
-    
-}
+    #colDroite2.menuVertical {
+        overflow: hidden;
+    }
 
-#colDroite2.menuVertical a {
-    padding:30px !important;
-}
-#colDroite2.menuVertical a:before {
-    background: black;
-}
+    .fdB {
+        text-align: left !important;
+
+        font-size: 12px;
+        color: #c1c1c1;
+        letter-spacing: 2px;
+
+    }
+
+    #colDroite2.menuVertical a {
+        padding: 30px !important;
+    }
+
+    #colDroite2.menuVertical a:before {
+        background: black;
+    }
 </style>
+
 <body class="stories-template-default single single-stories postid-233">
     <div class="wrapper" id="barba-wrapper">
         <div class="barba-container scrollTop" data-namespace="stories">
@@ -31,27 +34,28 @@
                     </a>
                     <a href="" id="f2" class="nClip">
                         <!--<img src="/assets/asa-logo.png" alt="N" />-->
-                            </a>
+                    </a>
                     <div id="titreVertical2" class="titreVertClip hideMO bleuClip">
                         <p>
                             Event Services</p>
                     </div>
                     <a id="menuLink2" class="m bleuClip">Menu<div><span></span><span></span><span></span></div></a>
                     <a id="scrollDownLink2" class="scrollDown"></a>
-                   <div id="colDroite2" class="menuDr menuVertical bgBlanc hideMO">
- 
-                    
-                      <!--<a href="/service-details/" class="fdB active"><span>SERVICE DETAILS</span></a>-->
+                    <div id="colDroite2" class="menuDr menuVertical bgBlanc hideMO">
+                        <h2 class="titreBloc miniTitre white">Sectors</h2>
+
+
+                        <!--<a href="/service-details/" class="fdB active"><span>SERVICE DETAILS</span></a>-->
                         <a href="/" class="fdB"><span>HOME</span></a>
                         <a href="/public-relations/" class="fdB"><span>ABOUT</span></a>
                         <a href="/service-details/" class="fdB "><span>SERVICES</span></a>
                         <a href="/contact-us/" class="fdB "><span>CONTACTS</span></a>
 
-                       
+
 
 
                     </div>
-                    
+
                     <div id="cacheMenuDr" class="hideMO"></div>
                     <div class="colGauche colGaucheContent bgGrisClair colGaucheStories pageStories" id="v">
                         <div class="biColor padBlocBot">
@@ -69,13 +73,13 @@
                                         <img src="/assets/ASA Events Images/Contact Stages/Online Events.jpg"
                                             height="450" alt="" style="margin-right:0px" alt="">
                                         <img src="/assets/ASA Events Images/Contact Stages/Public Relations.jpg"
-                                            height="450" alt="">                                            
+                                            height="450" alt="">
                                         <img src="/assets/ASA Events Images/Contact Stages/Social Events.jpg"
                                             height="450" alt="">
                                         <img src="/assets/ASA Events Images/Contact Stages/Venue Styling.jpg"
-                                            height="450" alt="">                                            
-                                        <img src="/assets/ASA Events Images/Contact Stages/Weddings.jpg"
-                                            height="450" style="margin-right:0px" alt="">
+                                            height="450" alt="">
+                                        <img src="/assets/ASA Events Images/Contact Stages/Weddings.jpg" height="450"
+                                            style="margin-right:0px" alt="">
                                     </div>
 
                                 </h2>
@@ -240,4 +244,4 @@
             <div id="scrollDown"></div>
             <div id="cacheMenu"></div>
 
-            <?php include_once(__DIR__.'/../footer2.php');?>
+            <?php include_once(__DIR__ . '/../footer2.php'); ?>

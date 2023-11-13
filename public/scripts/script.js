@@ -1336,7 +1336,15 @@
       $(window).resize(function(){	  
           hauteurCol(); 
       });
-  
+    //   $(window).on('resize', function() {
+    //     if ($(window).width() < 960) {
+    //       if (!$('.menuDr.menuvertical').children().is('.titreBloc')) {
+    //         $('<h2 class="titreBloc miniTitre white">Sectors</h2>').prependTo('.menuDr.menuvertical');
+    //       }
+    //     } else {
+    //       $('.menuDr.menuvertical').children('.titreBloc').remove();
+    //     }
+    //   });
       // RESET FUNCTIONS
   
       // function bg() {

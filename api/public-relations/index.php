@@ -35,6 +35,7 @@
                     </div>
                 </div>
                 <div id="colDroite1" class="menuDr menuVertical posFix">
+                    <h2 class="titreBloc miniTitre white">Sectors</h2>
                     <a href="/" class="fdB"><span>HOME</span></a>
                     <a href="/public-relations/" class="fdB"><span>ABOUT</span></a>
                     <a href="/service-details/" class="fdB "><span>SERVICES</span></a>
