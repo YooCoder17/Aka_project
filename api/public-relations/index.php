@@ -5,7 +5,7 @@
         <div class="barba-container scrollTop" data-namespace="page-services.php">
             <div id="menuVI" class="actif"></div>
             <div id="menuCache"></div>
-            <div style="background: url('../assets/ASA-events-services.jpg') center center no-repeat; background-size: cover;"
+            <div style="background: url('/assets/ASA-events-services.jpg') center center no-repeat; background-size: cover;"
                 id="bgvid"></div>
             <div class='ovelayBG'></div>
             <span id="bgBleu"></span>

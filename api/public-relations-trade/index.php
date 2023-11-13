@@ -5,7 +5,7 @@
         <div class="barba-container scrollTop" data-namespace="services">
             <div id="menuVI" class="actif"></div>
             <div id="menuCache"></div>
-            <div style="background: url('trade.jpg') center center no-repeat; background-size: cover;"
+            <div style="background: url('/assets/trade.jpg') center center no-repeat; background-size: cover;"
                 id="bgvid"></div>
             <div class='ovelayBG'></div>
             <!-- <span id="bgBleu"></span> -->

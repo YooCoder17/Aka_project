@@ -5,7 +5,7 @@
         <div class="barba-container scrollTop" data-namespace="services">
             <div id="menuVI" class="actif"></div>
             <div id="menuCache"></div>
-            <div style="background: url('../assets/GettyImages-523438260-bleu-1920x1440.jpg') center center no-repeat; background-size: cover;"
+            <div style="background: url('/assets/GettyImages-523438260-bleu-1920x1440.jpg') center center no-repeat; background-size: cover;"
                 id="bgvid"></div>
             <!-- <span id="bgBleu"></span> -->
             <span id="bgBleu"></span>
