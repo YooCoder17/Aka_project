@@ -119,7 +119,7 @@ img {
 /************************************************/
 @font-face {
   font-family: Akkurat;
-  src: url("font/Akkurat-Light.woff2") format("woff2"), url("font/Akkurat-Light.woff") format("woff"); }
+  src: url(font/Akkurat-Light.woff2) format("woff2"), url(font/Akkurat-Light.woff) format("woff"); }
 /* font converted using font-converter.net. thank you! */
 @font-face {
   font-family: "AkkuratBold";
@@ -129,7 +129,7 @@ img {
   /* Modern Browsers */ }
 @font-face {
   font-family: "Poppins-Light";
-  src: url("font/Poppins-Light.ttf") format("ttf");
+  src: url(font/Poppins-Light.ttf) format("ttf");
 }
 * {
   font-family: Akkurat; 
