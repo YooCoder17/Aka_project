@@ -5130,7 +5130,7 @@ body {
     width: 100vw;
     height: auto !important;
     /*overflow: hidden;*/
-    background: #021532;
+    background: #000;
     transform: translateY(calc(-84px)); }
     #colDroite1.menuVertical h2,
     #colDroite2.menuVertical h2 {
