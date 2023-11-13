@@ -33,17 +33,17 @@
                     </a>
                 </div>
                 <div class="w50 menuHome hideMO">
-                    <a href="/public-relations/"
-                        class="w50 hideMO boxHome smBoxHome boxLiens">
-                        <div>
-                            <p class="nav">PUBLIC RELATION SERVICES</p>
-                        </div>
-                    </a>
-                    <!--/service-details/-->
                     <a href="/service-details/"
                         class="w50 hideMO boxHome smBoxHome boxLiens">
                         <div>
-                            <p class="nav">EVENT SERVICES</p>
+                            <p class="nav">CONSULTING SERVICES</p>
+                        </div>
+                    </a>
+                    <!--/service-details/-->
+                    <a href="/public-relations/"
+                        class="w50 hideMO boxHome smBoxHome boxLiens">
+                        <div>
+                            <p class="nav">ABOUT</p>
                         </div>
                     </a>
                     <!--<a href="/services/"-->
