@@ -4311,7 +4311,7 @@ h2 {
       display: flex;
       align-items: center; }
     #twitterBoxHome .juiz_last_tweet_inside {
-      font-size: 8px;
+      font-size: large;
       display: block; }
       #twitterBoxHome .juiz_last_tweet_inside * {
         padding-top: 0;
