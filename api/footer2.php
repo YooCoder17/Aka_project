@@ -30,8 +30,6 @@
                 class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-49">
                 <a href="/">Home</a>
             </li>
-            <li id="menu-item-47" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-47"><a
-                    href="/about-us/">About Us</a></li>
             <li id="menu-item-122" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-122"><a
                     href="/public-relations/">Public Relation Services</a></li>
 			 <li id="menu-item-268"
