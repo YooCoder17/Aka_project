@@ -3707,6 +3707,42 @@ h2.titreBloc.miniTitre {
 #colDroite2.white h2.titreBloc.miniTitre {
   border-bottom: 1px solid rgba(255, 255, 255, 0.35) !important;
   color: rgba(255, 255, 255, 0.35); }
+@media(max-width:959px){
+  h2.titreBloc.miniTitre {
+    display: flex;
+  }
+  #colDroite1.menuVertical, #colDroite2.menuVertical {
+    background: black;
+  }
+  #colDroite1.menuDr.menuVertical a{
+    color:white !important;
+  }
+  #colDroite1.menuVertical h2{
+    color:white !important;
+  }
+  #colDroite1.menuVertical h2::after, #colDroite2.menuVertical h2::after {  
+    border-bottom: #fff 1px solid;
+    border-right: #fff 1px solid;  
+  }
+  #colDroite1.menuVertical h2::before, #colDroite2.menuVertical h2::before {  
+    border-top: #fff 1px solid;
+    border-left: #fff 1px solid;
+  }
+  #colDroite2.menuVertical a{
+    color:#fff !important;
+  }
+  #colDroite2.menuVertical h2{
+    padding:18px !important;
+    color:#fff;
+  }
+  body #colDroite2.menuVertical a {
+    padding: 00px !important;
+  }
+  #colDroite1 .titreBloc.miniTitre span, #colDroite2 .titreBloc.miniTitre span {
+    padding-left: 0 !important;
+    font-family: akkuratbold !important;
+  }
+}
 #colDroite2.white .texteCourant {
   color: white !important;
   opacity: 1 !important;
@@ -5154,7 +5190,7 @@ body {
   .colOpen #colDroite2.menuVertical {
     z-index: 99;
     height: auto !important;
-    transform: translateY(-390px); }
+    transform: translateY(-280px); }
     .colOpen #colDroite1.menuVertical a,
     .colOpen #colDroite2.menuVertical a {
       height: 50px !important;

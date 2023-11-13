@@ -91,39 +91,6 @@ nav #contact>div p span {
 .menuHome a:nth-child(3):hover > div > p{
 	color:#000 !important
 }
-@media(max-width:959px){
-	#colDroite1.menuVertical, #colDroite2.menuVertical {
-		background: black;
-	}
-	#colDroite1.menuDr.menuVertical a{
-		color:white !important;
-	}
-	#colDroite1.menuVertical h2{
-		color:white !important;
-	}
-	#colDroite1.menuVertical h2::after, #colDroite2.menuVertical h2::after {  
-	  border-bottom: #fff 1px solid;
-	  border-right: #fff 1px solid;  
-	}
-	#colDroite1.menuVertical h2::before, #colDroite2.menuVertical h2::before {  
-	  border-top: #fff 1px solid;
-	  border-left: #fff 1px solid;
-	}
-	#colDroite2.menuVertical a{
-		color:#fff !important;
-	}
-	#colDroite2.menuVertical h2{
-		padding:18px !important;
-		color:#fff;
-	}
-	body #colDroite2.menuVertical a {
-		padding: 00px !important;
-	}
-	#colDroite1 .titreBloc.miniTitre span, #colDroite2 .titreBloc.miniTitre span {
-	  padding-left: 0 !important;
-	  font-family: akkuratbold !important;
-	}
-}
 #image-container {
     display: flex;
     flex-wrap: wrap;
