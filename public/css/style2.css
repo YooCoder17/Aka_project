@@ -127,8 +127,13 @@ img {
   /* IE9 Compat Modes */
   src: url("font/AkkuratPro-Regular.eot?#iefix") format("embedded-opentype"), url("font/AkkuratPro-Regular.otf") format("opentype"), url("font/AkkuratPro-Regular.svg") format("svg"), url("font/AkkuratPro-Regular.ttf") format("truetype"), url("font/AkkuratPro-Regular.woff") format("woff"), url("font/AkkuratPro-Regular.woff2") format("woff2");
   /* Modern Browsers */ }
+@font-face {
+  font-family: "Poppins-Light";
+  src: url(font/Poppins-Light.ttf) format("ttf");
+}
 * {
-  font-family: Akkurat; }
+  font-family: Akkurat; 
+}
 
 h1 {
   font-weight: 100 !important;
@@ -5420,6 +5425,9 @@ body {
   #v.nav {
     height: 100px !important;
     margin-top: 0 !important; } }
+h1.texteTitre.blocCont.noPadBot.white {
+  font-family: "Poppins-Light" !important;
+}
 @media (max-width: 499px) {
   #newsBoxHome p.nav {
     padding: 0 !important; }
