@@ -39,15 +39,10 @@
                     <a id="menuLink2" class="m bleuClip">Menu<div><span></span><span></span><span></span></div></a>
                     <a id="scrollDownLink2" class="scrollDown"></a>
                    <div id="colDroite2" class="menuDr menuVertical bgBlanc hideMO">
-                        <h2 class="titreBloc miniTitre" style="padding:40px"><span>Sectors</span></h2>
-                         <a href="/service-details/" class="fdB "><span>SERVICE DETAILS</span></a>
-                        <a href="/media-and-publicity/" class="fdB"><span>MEDIA & PUBLICITY</span></a>
-                        <a href="/corporate-events/" class="fdB"><span>CORPORATE EVENTS</span></a>
-                        <a href="/social-events/" class="fdB "><span>SOCIAL EVENTS</span></a>
-                        <!--<a href="/weddings/" class="fdB "><span>WEDDINGS</span></a>-->
-                        <a href="/wedding-venue-styling/" class="fdB"><span>WEDDING VENUE STYLING</span></a>
-                        <a href="/product-launches/" class="fdB"><span>PRODUCT LAUNCHES</span></a>
-                        <a href="/online-events/" class="fdB"><span>ONLINE EVENTS</span></a>
+                        <a href="/" class="fdB"><span>HOME</span></a>
+                        <a href="/public-relations/" class="fdB"><span>ABOUT</span></a>
+                        <a href="/service-details/" class="fdB "><span>SERVICES</span></a>
+                        <a href="/contact-us/" class="fdB "><span>CONTACTS</span></a>
 
                     </div>
                     

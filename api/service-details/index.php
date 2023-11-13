@@ -39,7 +39,6 @@
                     <a id="menuLink2" class="m bleuClip">Menu<div><span></span><span></span><span></span></div></a>
                     <a id="scrollDownLink2" class="scrollDown"></a>
                    <div id="colDroite2" class="menuDr menuVertical bgBlanc hideMO">
-                        <h2 class="titreBloc miniTitre" style="padding:40px"><span>Sectors</span></h2>
  
                     
                       <!--<a href="/service-details/" class="fdB active"><span>SERVICE DETAILS</span></a>-->

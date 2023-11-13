@@ -33,7 +33,6 @@
                     <a id="menuLink2" class="m bleuClip">Menu<div><span></span><span></span><span></span></div></a>
                     <a id="scrollDownLink2" class="scrollDown"></a>
                     <div id="colDroite2" class="menuDr menuVertical bgBlanc hideMO">
-                        <h2 class="titreBloc miniTitre" style="padding:55px"><span>Contact Us</span></h2>
                         
                         <a href="/" class="fdB"><span>HOME</span></a>
                         <a href="/public-relations/" class="fdB"><span>ABOUT</span></a>
