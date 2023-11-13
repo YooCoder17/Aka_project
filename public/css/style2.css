@@ -129,7 +129,7 @@ img {
   /* Modern Browsers */ }
 @font-face {
   font-family: "Poppins-Light";
-  src: url(font/Poppins-Light.ttf) format("ttf");
+  src: url(font/Poppins-Light.ttf) format("truetype");
 }
 * {
   font-family: Akkurat; 
