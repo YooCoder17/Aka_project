@@ -199,6 +199,7 @@ h1 {
 }
 h1.texteTitre.blocCont.noPadBot.white span {
   font-family: 'Poppins-Light' !important;
+  font-weight: 300 !important;
 }
 .miniTitre,
 .miniTitre h2 {
