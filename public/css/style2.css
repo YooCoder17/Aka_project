@@ -128,8 +128,13 @@ img {
   src: url("font/AkkuratPro-Regular.eot?#iefix") format("embedded-opentype"), url("font/AkkuratPro-Regular.otf") format("opentype"), url("font/AkkuratPro-Regular.svg") format("svg"), url("font/AkkuratPro-Regular.ttf") format("truetype"), url("font/AkkuratPro-Regular.woff") format("woff"), url("font/AkkuratPro-Regular.woff2") format("woff2");
   /* Modern Browsers */ }
 @font-face {
-  font-family: "Poppins-Light";
-  src: url(font/Poppins-Light.ttf) format("truetype");
+  font-family: 'Poppins-Light';
+  src:url('font/Poppins-Light.ttf.woff') format('woff'),
+      url('font/Poppins-Light.ttf.svg#Poppins-Light') format('svg'),
+      url('font/Poppins-Light.ttf.eot'),
+      url('font/Poppins-Light.ttf.eot?#iefix') format('embedded-opentype'); 
+  font-weight: normal;
+  font-style: normal;
 }
 * {
   font-family: Akkurat; 
@@ -193,7 +198,7 @@ h1 {
     color: rgba(19, 41, 75, 0.5) !important; 
 }
 h1.texteTitre.blocCont.noPadBot.white span {
-  font-family: "Poppins-Light" !important;
+  font-family: 'Poppins-Light' !important;
 }
 .miniTitre,
 .miniTitre h2 {

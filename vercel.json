@@ -6,7 +6,6 @@
   },
 
   "rewrites": [
-    { "source": "/font/(.*)", "destination": "/public/css/font/$1" },
     { "source": "/css/(.*)", "destination": "/public/css/$1" },
     { "source": "/scripts/(.*)", "destination": "/public/scripts/$1" },
     { "source": "/assets/(.*)", "destination": "/public/assets/$1" },

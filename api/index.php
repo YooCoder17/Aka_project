@@ -29,7 +29,7 @@
                 <div class="colGauche colDemi centerVert largeBlocTxt hideMO" id="homePage">
                     <a href="#">
                         <h1 class="hideMO blocCont noPadBot texteTitre white">
-                            <span>Welcome to CAE Business Solutions- Your Partner in Business Excellence</span>
+                            <span>Welcome to <span style="color:black !important;">CAE</span> Business Solutions- Your Partner in Business Excellence</span>
                         </h1>
                     </a>
                 </div>
