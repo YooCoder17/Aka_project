@@ -31,7 +31,7 @@
                     </a>
                     <div id="titreVertical2" class="titreVertClip hideMO bleuClip">
                         <p>
-                            Contat Us</p>
+                            Contact Us</p>
                     </div>
                     <a id="menuLink2" class="m bleuClip">Menu<div><span></span><span></span><span></span></div></a>
                     <a id="scrollDownLink2" class="scrollDown"></a>
