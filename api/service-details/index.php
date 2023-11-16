@@ -1,9 +1,5 @@
 <?php include_once(__DIR__ . '/../header2.php'); ?>
 <style>
-    #colDroite2.menuVertical {
-        overflow: hidden;
-    }
-
     .fdB {
         text-align: left !important;
 
@@ -60,24 +56,22 @@
                     <div class="colGauche colGaucheContent bgGrisClair colGaucheStories pageStories" id="v">
                         <div class="biColor padBlocBot">
                             <span class="pageTitreSmall bleu hideMO"> CONSULTING SERVICES</span>
-
+                            <h1 class="titreServices texteTitre white padTopOnSmall">
+                                Welcome to CAE Business Solutions- Your Partner in Business Excellence</h1>
+                            <p class="texteCourant textJust serviceDetBox">
+                                At CAE Business Solutions, we offer a wide range of services to help your business
+                                thrive and succeed in the digital age. Our team of expert consultants is here to guide
+                                you through every step of your journey, from strategy development to website
+                                optimisation. Here's how we can assist you:
+                            </p>
                             <div class="sa goTop">
                                 <div class="blocCont hideMO texteTitre">
-                                    <p>CREATIVE INPUT:</p>
+                                    <p>1. Business Strategy Development</p>
                                 </div>
                                 <div class="blocCont hideMO texteCourant textJust">
                                     <p class="lineBefore hideMO">
-                                        We will assist you in your events creation or we can create your event for you.
-                                        By ascertaining your requirements at the initial consultation stage, we will
-                                        customise our event service delivery to your needs. When it comes to event
-                                        planning, creativity is very important. Our event planning team are always
-                                        brimming with creative ideas and we love to implement them for clients.
-                                        <br><br>
-                                        Your event will involve a process of creative brainstorming and subsequent
-                                        careful thought to resolve practical issues around the event service delivery.
-                                        This process is always important for the successful execution of an event. We at
-                                        ASA Events Management & Consultancy Specialists enjoy taking this process
-                                        seriously for clients.
+                                        Our experts will work closely with you to develop a robust business strategy
+                                        that aligns with your mission and vision, ensuring sustainable growth.
                                     </p>
                                 </div>
                                 <div class="divider hideMO storiesSgDiv"></div>
@@ -85,27 +79,13 @@
 
                             <div class="sa goTop">
                                 <div class="blocCont hideMO texteTitre">
-                                    <p>CONSULTING:</p>
+                                    <p>2. Market Research</p>
                                 </div>
                                 <div class="blocCont hideMO texteCourant textJust">
                                     <p class="lineBefore hideMO">
-
-                                        This aspect of our service is an integral part of our event management service
-                                        as all clients will be offered an initial consultation to ascertain their
-                                        requirements. We also offer a separate event consultation service for clients
-                                        requiring assistance short of full event planning and management.
-                                        <br><br>
-                                        The initial consultation will involve us assessing a potential client’s event
-                                        requirements by asking a range of questions which will help us to serve a client
-                                        in the best way. Once we have assessed a client’s event needs, we can proceed
-                                        from there to present a proposal to the client. If the proposal is satisfactory
-                                        to the client, we can then begin to iron out any other details and start working
-                                        together.
-                                        <br><br>
-                                        Our event consultation service involves a client booking in with us to receive a
-                                        telephone call for an allotted period of time where we would offer advice
-                                        involving their event. This is helpful for clients who have event requirements
-                                        but do not necessarily need full event planning and management.
+                                        We conduct in-depth market research, providing you with invaluable insights to
+                                        make data-driven decisions, stay ahead of your competitors, and understand your
+                                        target audience.
                                     </p>
                                 </div>
                                 <div class="divider hideMO storiesSgDiv"></div>
@@ -113,20 +93,13 @@
 
                             <div class="sa goTop">
                                 <div class="blocCont hideMO texteTitre">
-                                    <p>VENDOR BOOKING:</p>
+                                    <p>3. Website Development and Design</p>
                                 </div>
                                 <div class="blocCont hideMO texteCourant textJust">
                                     <p class="lineBefore hideMO">
-
-
-                                        We establish relationships with strategic partners to enable us to provide the
-                                        best service for you. Utilising our database of contacts, we can help our
-                                        clients to keep within budget while still delivering a beautiful event.
-                                        <br><br>
-                                        To deliver a special event for our clients, whether corporate or social, we will
-                                        handle the logistics and make sure all your event requirements are fulfilled.
-                                        This involves planning, collaboration with vendors and organisational skills to
-                                        ensure your event is the best it can be.
+                                        Transform your online presence with our top-notch website development and
+                                        design services. We create user-friendly, visually appealing websites that leave
+                                        a lasting impression.
                                     </p>
                                 </div>
                                 <div class="divider hideMO storiesSgDiv"></div>
@@ -134,23 +107,13 @@
 
                             <div class="sa goTop">
                                 <div class="blocCont hideMO texteTitre">
-                                    <p>SCHEDULING:</p>
+                                    <p>4. Digital Marketing Strategy</p>
                                 </div>
                                 <div class="blocCont hideMO texteCourant textJust">
                                     <p class="lineBefore hideMO">
-
-                                        All timings will be executed efficiently and to schedule for our clients. To
-                                        ensure our events go smoothly we stick to deadlines and work in a highly
-                                        organised fashion. We are serious about scheduling as this is a highly important
-                                        element in the event planning process. Of course, issues may present themselves
-                                        but with our team there to support you any issues will be resolved in the best
-                                        way possible and with minimal stress.
-                                        <br><br>
-                                        You will not have to worry about the details of an event because we will take
-                                        care of them. Whether it is where event items are going to be sourced from, will
-                                        people be in the right place at the right time, or have all the invitations been
-                                        handled our clients are fully informed and these details will be taken care of.
-                                        This can take a lot of pressure off and make the event all the more pleasurable.
+                                        Boost your online presence with a comprehensive digital marketing strategy
+                                        that includes SEO, content marketing, social media, and email marketing to reach
+                                        your audience effectively.
                                     </p>
                                     <br>
                                     <!-- <p class="pj hideMO">
@@ -162,25 +125,26 @@
                                 </div>
                                 <div class="divider hideMO storiesSgDiv"></div>
                             </div>
-
                             <div class="sa goTop">
                                 <div class="blocCont hideMO texteTitre">
-                                    <p>COORDINATION:</p>
+                                    <p>5. Search Engine Optimisation (SEO)</p>
                                 </div>
                                 <div class="blocCont hideMO texteCourant textJust">
                                     <p class="lineBefore hideMO">
-
-                                        We coordinate events to a high standard because we care about providing a
-                                        quality service. The event itself will be managed and coordinated by our event
-                                        managers who will make every effort to ensure the event goes smoothly. We at ASA
-                                        Events Management & Consultancy Specialists take great care with everything
-                                        events related so that our clients are satisfied with the event delivery.
-                                        <br><br>
-                                        Our event coordinators are highly professional operators who are always there to
-                                        listen and solve problems before, during and after the event. This comprehensive
-                                        service is part of our strategy to show that we care about every event we
-                                        manage. We always aim to impress and finding solutions to event problems is a
-                                        strong point of ours.
+                                        Improve your website's visibility and increase organic traffic through our
+                                        expert SEO services.
+                                    </p>
+                                </div>
+                                <div class="divider hideMO storiesSgDiv"></div>
+                            </div>
+                            <div class="sa goTop">
+                                <div class="blocCont hideMO texteTitre">
+                                    <p>6. Content Creation</p>
+                                </div>
+                                <div class="blocCont hideMO texteCourant textJust">
+                                    <p class="lineBefore hideMO">
+                                        Engage your audience with compelling content, including articles, blog posts,
+                                        videos, and infographics, crafted by our creative content team.
                                     </p>
                                 </div>
                                 <div class="divider hideMO storiesSgDiv"></div>
@@ -188,23 +152,178 @@
 
                             <div class="sa goTop">
                                 <div class="blocCont hideMO texteTitre">
-                                    <p>BREAK-DOWN:</p>
+                                    <p>7. Usability and User Experience (UX) Analysis</p>
                                 </div>
                                 <div class="blocCont hideMO texteCourant textJust">
                                     <p class="lineBefore hideMO">
-
-                                        Making sure the final aspects of the event are taken care of in an organised
-                                        manner is very important. It is great when an event is a success but part of a
-                                        successful event is a well-managed clean-up and break-down.
-                                        <br><Br>
-                                        If this part of the event is neglected it can lead to all sorts of issues such
-                                        as difficulties with contractors and vendors. We value all our relationships
-                                        whether it is with our client, with contractors, or with vendors and we strive
-                                        to maintain good relations with all those we come into contact with.
+                                        Ensure your website is user-friendly and provides a positive user experience,
+                                        enhancing visitor satisfaction.
                                     </p>
                                 </div>
                                 <div class="divider hideMO storiesSgDiv"></div>
                             </div>
+                            <div class="sa goTop">
+                                <div class="blocCont hideMO texteTitre">
+                                    <p>8. E-commerce and Online Sales Strategy</p>
+                                </div>
+                                <div class="blocCont hideMO texteCourant textJust">
+                                    <p class="lineBefore hideMO">
+                                        Optimise your e-commerce operations and boost sales with our proven
+                                        strategies.
+                                    </p>
+                                </div>
+                                <div class="divider hideMO storiesSgDiv"></div>
+                            </div>
+                            <div class="sa goTop">
+                                <div class="blocCont hideMO texteTitre">
+                                    <p>9. Conversion Rate Optimisation (CRO)</p>
+                                </div>
+                                <div class="blocCont hideMO texteCourant textJust">
+                                    <p class="lineBefore hideMO">
+                                        Increase your website's conversion rate with our data-driven analysis and user
+                                        interaction improvements.
+                                    </p>
+                                </div>
+                                <div class="divider hideMO storiesSgDiv"></div>
+                            </div>
+                            <div class="sa goTop">
+                                <div class="blocCont hideMO texteTitre">
+                                    <p>10. Web Analytics</p>
+                                </div>
+                                <div class="blocCont hideMO texteCourant textJust">
+                                    <p class="lineBefore hideMO">
+                                        Track and analyse your website's performance and user behaviour to make
+                                        informed decisions for continuous improvement.
+                                    </p>
+                                </div>
+                                <div class="divider hideMO storiesSgDiv"></div>
+                            </div>
+                            <div class="sa goTop">
+                                <div class="blocCont hideMO texteTitre">
+                                    <p>11. Social Media Management</p>
+                                </div>
+                                <div class="blocCont hideMO texteCourant textJust">
+                                    <p class="lineBefore hideMO">
+                                        Grow your brand's presence and engage with your audience through our social
+                                        media management services.
+                                    </p>
+                                </div>
+                                <div class="divider hideMO storiesSgDiv"></div>
+                            </div>
+                            <div class="sa goTop">
+                                <div class="blocCont hideMO texteTitre">
+                                    <p>12. Digital Advertising</p>
+                                </div>
+                                <div class="blocCont hideMO texteCourant textJust">
+                                    <p class="lineBefore hideMO">
+                                        Attract more visitors and drive conversions with our online advertising
+                                        campaigns, including pay-per-click (PPC) ads.
+                                    </p>
+                                </div>
+                                <div class="divider hideMO storiesSgDiv"></div>
+                            </div>
+                            <div class="sa goTop">
+                                <div class="blocCont hideMO texteTitre">
+                                    <p>13. Financial and Cost Analysis</p>
+                                </div>
+                                <div class="blocCont hideMO texteCourant textJust">
+                                    <p class="lineBefore hideMO">
+                                        Gain insights into your financial health and discover cost-saving
+                                        opportunities for your website operations.
+                                    </p>
+                                </div>
+                                <div class="divider hideMO storiesSgDiv"></div>
+                            </div>
+                            <div class="sa goTop">
+                                <div class="blocCont hideMO texteTitre">
+                                    <p>14. Risk Assessment and Management</p>
+                                </div>
+                                <div class="blocCont hideMO texteCourant textJust">
+                                    <p class="lineBefore hideMO">
+                                        Protect your website and customer data by identifying and mitigating
+                                        cybersecurity risks.
+                                    </p>
+                                </div>
+                                <div class="divider hideMO storiesSgDiv"></div>
+                            </div>
+                            <div class="sa goTop">
+                                <div class="blocCont hideMO texteTitre">
+                                    <p>15. Technology Integration</p>
+                                </div>
+                                <div class="blocCont hideMO texteCourant textJust">
+                                    <p class="lineBefore hideMO">
+                                        Seamlessly integrate the latest technologies, such as CRM systems and
+                                        analytics tools, to enhance your website management.
+                                    </p>
+                                </div>
+                                <div class="divider hideMO storiesSgDiv"></div>
+                            </div>
+                            <div class="sa goTop">
+                                <div class="blocCont hideMO texteTitre">
+                                    <p>16. Strategic Partnerships</p>
+                                </div>
+                                <div class="blocCont hideMO texteCourant textJust">
+                                    <p class="lineBefore hideMO">
+                                        Expand your reach and offerings by collaborating with other businesses,
+                                        creating win-win opportunities.
+                                    </p>
+                                </div>
+                                <div class="divider hideMO storiesSgDiv"></div>
+                            </div>
+                            <div class="sa goTop">
+                                <div class="blocCont hideMO texteTitre">
+                                    <p>17. Change Management</p>
+                                </div>
+                                <div class="blocCont hideMO texteCourant textJust">
+                                    <p class="lineBefore hideMO">
+                                        Implement organisational changes related to website strategies, technologies,
+                                        and processes smoothly and effectively.
+                                    </p>
+                                </div>
+                                <div class="divider hideMO storiesSgDiv"></div>
+                            </div>
+                            <div class="sa goTop">
+                                <div class="blocCont hideMO texteTitre">
+                                    <p>18. Training and Development</p>
+                                </div>
+                                <div class="blocCont hideMO texteCourant textJust">
+                                    <p class="lineBefore hideMO">
+                                        Ensure your team is proficient in using web-related tools and technologies,
+                                        enhancing your business's efficiency.
+                                    </p>
+                                </div>
+                                <div class="divider hideMO storiesSgDiv"></div>
+                            </div>
+                            <div class="sa goTop">
+                                <div class="blocCont hideMO texteTitre">
+                                    <p>19. Legal and Compliance Guidance</p>
+                                </div>
+                                <div class="blocCont hideMO texteCourant textJust">
+                                    <p class="lineBefore hideMO">
+                                        Stay on the right side of the law with our advice on legal and regulatory
+                                        compliance, including privacy policies and data protection.
+                                    </p>
+                                </div>
+                                <div class="divider hideMO storiesSgDiv"></div>
+                            </div>
+                            <div class="sa goTop">
+                                <div class="blocCont hideMO texteTitre">
+                                    <p>20. Performance Monitoring and Reporting</p>
+                                </div>
+                                <div class="blocCont hideMO texteCourant textJust">
+                                    <p class="lineBefore hideMO">
+                                        Keep track of your website-related initiatives and make data-driven
+                                        adjustments for better outcomes.
+                                    </p>
+                                </div>
+                                <div class="divider hideMO storiesSgDiv"></div>
+                            </div>
+                            <p class="texteCourant textJust serviceDetBox">
+                                Your success is our priority, and we are here to support you at every stage of your
+                                digital journey. Contact us today to learn more about how our services can benefit your
+                                business and help you achieve your goals. Together, we will drive your business to new
+                                heights in the digital era.
+                            </p>
                         </div>
 
                         <div class="biColor padBlocTop ">

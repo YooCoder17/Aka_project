@@ -26,11 +26,69 @@
                     <div class="colGauche colDemi largeBlocTxt serviceDetails">
                         <span class="pageTitreSmall">Services</span>
                         <h1 class="titreServices texteTitre white padTopOnSmall">
-                            Our experience in Public Relations is combined with the ambition to perform with creativity
-                            and quality. </h1>
+                            About CAE Business Solutions - Your Partner in Business Excellence </h1>
                         <p class="texteCourant textJust serviceDetBox">
-                            Passion and commitment are the daily inspiration of our work as we challenge ourselves to
-                            offer our clients inventive solutions. <br>The loyalty of our clients is the end result.
+                            Welcome to CAE Business Solutions, where innovation, expertise, and a passion for helping
+                            businesses succeed come together. We are your trusted partner on the journey to achieving
+                            excellence in the ever-evolving digital landscape.
+                        </p>
+                        <br><br>
+                        <h1 class="titreServices texteTitre white padTopOnSmall">
+                            Our Story </h1>
+                        <p class="texteCourant textJust serviceDetBox">
+                            Established with a vision to empower businesses, CAE Business Solutions has been at the
+                            forefront of digital transformation. Our journey began with a group of dedicated
+                            professionals who shared a common goal: to assist businesses in navigating the complex and
+                            dynamic world of the internet.
+                        </p>
+                        <h1 class="titreServices texteTitre white padTopOnSmall">
+                            What We Believe In</h1>
+                        <p class="texteCourant textJust serviceDetBox">
+                            At CAE Business Solutions, we believe in the power of knowledge, strategy, and technology.
+                            We are driven by the desire to see businesses not just thrive but excel. We understand that
+                            the digital realm can be both exhilarating and challenging, and that is where our expertise
+                            shines.
+                        </p>
+                        <br><br>
+                        <h1 class="titreServices texteTitre white padTopOnSmall">
+                            Our Mission</h1>
+                        <p class="texteCourant textJust serviceDetBox">
+                            Our mission is clear: to provide tailored solutions that enable businesses to harness the
+                            full potential of the digital age. We work closely with our clients, understanding their
+                            unique needs, and crafting strategies that are not just practical but forward-thinking.
+                        </p>
+                        <br><br>
+                        <h1 class="titreServices texteTitre white padTopOnSmall">
+                            Why Choose Us?</h1>
+                        <p class="texteCourant textJust serviceDetBox">
+                        <ul class="listitemsUL">
+                            <li><span><b>Expertise:</b> Our team of seasoned consultants brings a wealth of knowledge
+                                    and experience to every project. We're committed to staying at the forefront of
+                                    industry trends and innovations.</span></li>
+                            <li><span><b>Customisation:</b> We don't believe in one-size-fits-all solutions. Every
+                                    business
+                                    is unique, and we tailor our services to match your specific requirements.</span>
+                            </li>
+                            <li><span><b>Results-oriented:</b> Your success is our success. We are dedicated to
+                                    delivering
+                                    tangible, data-driven results that make a real impact on your business.</span></li>
+                            <li><span><b>Partnership:</b> We view our client relationships as true partnerships. Your
+                                    goals become our goals, and we work hand in hand to achieve them.</span></li>
+                        </ul>
+                        </p>
+                        <br><br>
+                        <h1 class="titreServices texteTitre white padTopOnSmall">
+                            Let's Embark on Your Digital Journey Together </h1>
+                        <p class="texteCourant textJust serviceDetBox">
+                            In the digital age, a strong online presence is more vital than ever. Whether you are a
+                            start-up seeking to establish your brand or an established business looking to expand, we
+                            have the expertise and dedication to guide you to success.
+                        </p>
+                        <br>
+                        <p class="texteCourant textJust serviceDetBox">
+                            Get in touch with us today to explore how CAE Business Consulting can transform your digital
+                            strategy, enhance your online presence, and drive your business towards excellence. Your
+                            success story begins here, with us.
                         </p>
                     </div>
                 </div>

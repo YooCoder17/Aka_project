@@ -1,9 +1,5 @@
 <?php include_once(__DIR__ . '/../header2.php'); ?>
 <style>
-    #colDroite2.menuVertical {
-        overflow: hidden;
-    }
-
     #colDroite2.menuVertical a {
         padding: 30px !important;
     }
