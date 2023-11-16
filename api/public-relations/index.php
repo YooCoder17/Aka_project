@@ -18,7 +18,7 @@
                     <!--    alt="N" />-->
                 </a>
                 <div id="titreVertical1" class="titreVertClip">
-                    <p>PR SERVICES</p>
+                    <p>ABOUT</p>
                 </div>
                 <a id="menuLink1" class="m">Menu<div><span></span><span></span><span></span></div></a>
                 <a id="scrollDownLink1" class="scrollDown"></a>

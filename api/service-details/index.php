@@ -37,7 +37,7 @@
                     </a>
                     <div id="titreVertical2" class="titreVertClip hideMO bleuClip">
                         <p>
-                            Event Services</p>
+                            Consulting Services</p>
                     </div>
                     <a id="menuLink2" class="m bleuClip">Menu<div><span></span><span></span><span></span></div></a>
                     <a id="scrollDownLink2" class="scrollDown"></a>
@@ -59,9 +59,9 @@
                     <div id="cacheMenuDr" class="hideMO"></div>
                     <div class="colGauche colGaucheContent bgGrisClair colGaucheStories pageStories" id="v">
                         <div class="biColor padBlocBot">
-                            <span class="pageTitreSmall bleu hideMO"> Event Services</span>
+                            <span class="pageTitreSmall bleu hideMO"> CONSULTING SERVICES</span>
                             <div class="blocCont sa goTop miniTitre">
-                                <h2 class="hideMO">SERVICES
+                                <h2 class="hideMO">
                                     <br>
                                     <div id="image-container">
                                         <img src="/assets/ASA Events Images/Contact Stages/Consultation Services.png"
