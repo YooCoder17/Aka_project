@@ -4938,7 +4938,7 @@ body {
 @media (max-width: 959px) {
   .serviceDetails {
     overflow: hidden;
-    padding-bottom: 250px; }
+    padding-top: 100px; }
     .serviceDetails ul {
       padding-top: 50px; } }
 @media (max-width: 959px) {
@@ -5029,7 +5029,7 @@ body {
     position: relative;
     height: auto;
     min-height: 100vh;
-    padding: 60px 0 0; }
+    padding: 200px 0 0; }
     #svPg.flexHead #servicesPage {
       position: static; }
 
@@ -5153,7 +5153,7 @@ body {
     #colDroite2.menuVertical h2 {
       height: 54px;
       padding: 18px;
-      color: #13294b;
+      color: #fff;
       position: relative;
       border: 1px solid white !important;
       margin: 15px 11vw 0;

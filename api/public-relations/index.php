@@ -60,15 +60,15 @@
 
                         <h1 class="titreServices texteTitre white padTopOnSmall">
                             Why Choose Us?</h1>
-                        <p class="texteCourant textJust serviceDetBox" style="padding-left:20px;">
-                            <b>Expertise:</b> Our team of seasoned consultants brings a wealth of knowledge
+                        <p class="texteCourant textJust serviceDetBox">
+                            <b>-Expertise:</b> Our team of seasoned consultants brings a wealth of knowledge
                             and experience to every project. We're committed to staying at the forefront of
                             industry trends and innovations.<br>
-                            <b>Customisation:</b> We don't believe in one-size-fits-all solutions. Every
+                            <b>-Customisation:</b> We don't believe in one-size-fits-all solutions. Every
                             business is unique, and we tailor our services to match your specific requirements.<br>
-                            <b>Results-oriented:</b> Your success is our success. We are dedicated to
+                            <b>-Results-oriented:</b> Your success is our success. We are dedicated to
                             delivering tangible, data-driven results that make a real impact on your business.<br>
-                            <b>Partnership:</b> We view our client relationships as true partnerships. Your
+                            <b>-Partnership:</b> We view our client relationships as true partnerships. Your
                             goals become our goals, and we work hand in hand to achieve them.<br>
                         </p>
 
@@ -77,9 +77,7 @@
                         <p class="texteCourant textJust serviceDetBox">
                             In the digital age, a strong online presence is more vital than ever. Whether you are a
                             start-up seeking to establish your brand or an established business looking to expand, we
-                            have the expertise and dedication to guide you to success.
-                        </p>
-                        <p class="texteCourant textJust serviceDetBox">
+                            have the expertise and dedication to guide you to success.<br>
                             Get in touch with us today to explore how CAE Business Consulting can transform your digital
                             strategy, enhance your online presence, and drive your business towards excellence. Your
                             success story begins here, with us.
