@@ -31,7 +31,7 @@
                     </a>
                     <div id="titreVertical2" class="titreVertClip hideMO bleuClip">
                         <p>
-                            </p>
+                            Contat Us</p>
                     </div>
                     <a id="menuLink2" class="m bleuClip">Menu<div><span></span><span></span><span></span></div></a>
                     <a id="scrollDownLink2" class="scrollDown"></a>
@@ -48,7 +48,7 @@
                         <div class="biColor padBlocBot">
                             <span class="pageTitreSmall bleu hideMO">Contact Us</span>
                             <div class="blocCont sa goTop miniTitre">
-                                <h2 class="hideMO">Contact Us</h2>
+                                <!-- <h2 class="hideMO">Contact Us</h2> -->
                             </div>
 
                             <div class="sa goTop">
