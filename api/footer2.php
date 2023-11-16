@@ -23,10 +23,10 @@
                 <a href="/">Home</a>
             </li>
             <li id="menu-item-122" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-122"><a
-                    href="/public-relations/">Public Relation Services</a></li>
+                    href="/public-relations/">About</a></li>
 			 <li id="menu-item-268"
                 class="menu-item menu-item-type-post_type menu-item-object-page page_item page-item-7 current_page_item menu-item-268">
-                <a href="/service-details/">Service Details</a>
+                <a href="/service-details/">Consulting Services</a>
             </li>           
             <div class="dropMenuHolder">
                 <ul>
@@ -41,7 +41,7 @@
             <li id="menu-item-269" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-269"><a
                     href="#">Jobs</a></li>-->
             <li id="menu-item-48" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-48"><a
-                    href="/contact-us/">Contact</a></li>
+                    href="/contact-us/">Contact Us</a></li>
         </ul>
     </div>
     <!--    <p id="copyright"><a href="#" target="_blank">Created by <span><img src="/assets/atelierdesign.svg"

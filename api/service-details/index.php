@@ -48,8 +48,8 @@
                         <!--<a href="/service-details/" class="fdB active"><span>SERVICE DETAILS</span></a>-->
                         <a href="/" class="fdB"><span>HOME</span></a>
                         <a href="/public-relations/" class="fdB"><span>ABOUT</span></a>
-                        <a href="/service-details/" class="fdB "><span>SERVICES</span></a>
-                        <a href="/contact-us/" class="fdB "><span>CONTACTS</span></a>
+                        <a href="/service-details/" class="fdB "><span>CONSULTING SERVICES</span></a>
+                        <a href="/contact-us/" class="fdB "><span>CONTACT US</span></a>
 
 
 
