@@ -60,30 +60,6 @@
                     <div class="colGauche colGaucheContent bgGrisClair colGaucheStories pageStories" id="v">
                         <div class="biColor padBlocBot">
                             <span class="pageTitreSmall bleu hideMO"> CONSULTING SERVICES</span>
-                            <div class="blocCont sa goTop miniTitre">
-                                <h2 class="hideMO">
-                                    <br>
-                                    <div id="image-container">
-                                        <img src="/assets/ASA Events Images/Contact Stages/Consultation Services.png"
-                                            height="450" alt="">
-                                        <img src="/assets/ASA Events Images/Contact Stages/Corporate Events.jpg"
-                                            height="450" alt="">
-                                        <img src="/assets/ASA Events Images/Contact Stages/Media and Publicity.jpg"
-                                            height="450" alt="">
-                                        <img src="/assets/ASA Events Images/Contact Stages/Online Events.jpg"
-                                            height="450" alt="" style="margin-right:0px" alt="">
-                                        <img src="/assets/ASA Events Images/Contact Stages/Public Relations.jpg"
-                                            height="450" alt="">
-                                        <img src="/assets/ASA Events Images/Contact Stages/Social Events.jpg"
-                                            height="450" alt="">
-                                        <img src="/assets/ASA Events Images/Contact Stages/Venue Styling.jpg"
-                                            height="450" alt="">
-                                        <img src="/assets/ASA Events Images/Contact Stages/Weddings.jpg" height="450"
-                                            style="margin-right:0px" alt="">
-                                    </div>
-
-                                </h2>
-                            </div>
 
                             <div class="sa goTop">
                                 <div class="blocCont hideMO texteTitre">
