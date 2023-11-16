@@ -4837,7 +4837,6 @@ h1, h1 span {
 
 .flexHead {
   display: flex;
-  align-items: center;
   height: 100%; }
 
 .flexHead > #storiesPage {
