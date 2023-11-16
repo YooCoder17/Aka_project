@@ -56,14 +56,22 @@
                     <div class="colGauche colGaucheContent bgGrisClair colGaucheStories pageStories" id="v">
                         <div class="biColor padBlocBot">
                             <span class="pageTitreSmall bleu hideMO"> CONSULTING SERVICES</span>
-                            <h1 class="titreServices texteTitre white padTopOnSmall">
-                                Welcome to CAE Business Solutions- Your Partner in Business Excellence</h1>
-                            <p class="texteCourant textJust serviceDetBox">
-                                At CAE Business Solutions, we offer a wide range of services to help your business
-                                thrive and succeed in the digital age. Our team of expert consultants is here to guide
-                                you through every step of your journey, from strategy development to website
-                                optimisation. Here's how we can assist you:
-                            </p>
+                            <div class="sa goTop">
+                                <div class="blocCont hideMO texteTitre">
+                                    <p>Welcome to CAE Business Solutions- Your Partner in Business Excellence</p>
+                                </div>
+                                <div class="blocCont hideMO texteCourant textJust">
+                                    <p class="hideMO">
+                                        At CAE Business Solutions, we offer a wide range of services to help your
+                                        business
+                                        thrive and succeed in the digital age. Our team of expert consultants is here to
+                                        guide
+                                        you through every step of your journey, from strategy development to website
+                                        optimisation. Here's how we can assist you:
+                                    </p>
+                                </div>
+                                <div class="divider hideMO storiesSgDiv"></div>
+                            </div>
                             <div class="sa goTop">
                                 <div class="blocCont hideMO texteTitre">
                                     <p>1. Business Strategy Development</p>

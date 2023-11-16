@@ -7159,3 +7159,6 @@ box-shadow: inset 0 0 0px rgb(255 255 255 / 51%);
     margin-left: 5vw;
 }
  
+p.texteCourant ul {
+  margin-left: 1vw;
+}
