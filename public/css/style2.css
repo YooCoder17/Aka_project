@@ -3262,6 +3262,7 @@ iframe {
   opacity: 0 !important; }
 
 #colDroite1 {
+  overflow-x: hidden;
   top: 0;
   height: 100%; }
 
