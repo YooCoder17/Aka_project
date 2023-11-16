@@ -4850,7 +4850,7 @@ h1, h1 span {
     padding-bottom: 0 !important; } }
 @media (min-height: 720px) {
   .flexHead {
-    height: 100vh; } }
+    height: auto; } }
 @media (max-height: 1000px) and (min-width: 960px) {
   .flexHead .padTopOnSmall {
     padding-top: 5vh !important; } }
