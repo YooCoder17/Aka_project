@@ -7051,7 +7051,19 @@ a.m {
 box-shadow: inset 0 0 0px rgb(255 255 255 / 51%);
     outline: 1px solid #9d9d9d;
 }
-
+#colDroite1::-webkit-scrollbar {
+  width: 5px;
+}
+ 
+#colDroite1::-webkit-scrollbar-track {
+    border-left: 1px solid #8f8f8f;
+  box-shadow: inset 0 0 0px rgba(255, 255, 255);
+}
+ 
+#colDroite1::-webkit-scrollbar-thumb {
+box-shadow: inset 0 0 0px rgb(255 255 255 / 51%);
+    outline: 1px solid #9d9d9d;
+}
 #colDroite2.menuVertical a {
     color: #c1c1c1;
     padding: 42px 0 42px 0 !important;
