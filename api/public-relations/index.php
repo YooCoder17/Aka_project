@@ -32,7 +32,7 @@
                             businesses succeed come together. We are your trusted partner on the journey to achieving
                             excellence in the ever-evolving digital landscape.
                         </p>
-                        
+
                         <h1 class="titreServices texteTitre white padTopOnSmall">
                             Our Story </h1>
                         <p class="texteCourant textJust serviceDetBox">
@@ -49,7 +49,7 @@
                             the digital realm can be both exhilarating and challenging, and that is where our expertise
                             shines.
                         </p>
-                        
+
                         <h1 class="titreServices texteTitre white padTopOnSmall">
                             Our Mission</h1>
                         <p class="texteCourant textJust serviceDetBox">
@@ -57,26 +57,21 @@
                             full potential of the digital age. We work closely with our clients, understanding their
                             unique needs, and crafting strategies that are not just practical but forward-thinking.
                         </p>
-                        
+
                         <h1 class="titreServices texteTitre white padTopOnSmall">
                             Why Choose Us?</h1>
-                        <p class="texteCourant textJust serviceDetBox">
-                        <ul>
-                            <li><span><b>Expertise:</b> Our team of seasoned consultants brings a wealth of knowledge
-                                    and experience to every project. We're committed to staying at the forefront of
-                                    industry trends and innovations.</span></li>
-                            <li><span><b>Customisation:</b> We don't believe in one-size-fits-all solutions. Every
-                                    business
-                                    is unique, and we tailor our services to match your specific requirements.</span>
-                            </li>
-                            <li><span><b>Results-oriented:</b> Your success is our success. We are dedicated to
-                                    delivering
-                                    tangible, data-driven results that make a real impact on your business.</span></li>
-                            <li><span><b>Partnership:</b> We view our client relationships as true partnerships. Your
-                                    goals become our goals, and we work hand in hand to achieve them.</span></li>
-                        </ul>
+                        <p class="texteCourant textJust serviceDetBox" style="padding-left:20px;">
+                            <b>Expertise:</b> Our team of seasoned consultants brings a wealth of knowledge
+                            and experience to every project. We're committed to staying at the forefront of
+                            industry trends and innovations.<br>
+                            <b>Customisation:</b> We don't believe in one-size-fits-all solutions. Every
+                            business is unique, and we tailor our services to match your specific requirements.<br>
+                            <b>Results-oriented:</b> Your success is our success. We are dedicated to
+                            delivering tangible, data-driven results that make a real impact on your business.<br>
+                            <b>Partnership:</b> We view our client relationships as true partnerships. Your
+                            goals become our goals, and we work hand in hand to achieve them.<br>
                         </p>
-                        
+
                         <h1 class="titreServices texteTitre white padTopOnSmall">
                             Let's Embark on Your Digital Journey Together </h1>
                         <p class="texteCourant textJust serviceDetBox">

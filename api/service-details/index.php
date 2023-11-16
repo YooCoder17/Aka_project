@@ -326,12 +326,19 @@
                                 </div>
                                 <div class="divider hideMO storiesSgDiv"></div>
                             </div>
-                            <p class="texteCourant textJust serviceDetBox">
-                                Your success is our priority, and we are here to support you at every stage of your
-                                digital journey. Contact us today to learn more about how our services can benefit your
-                                business and help you achieve your goals. Together, we will drive your business to new
-                                heights in the digital era.
-                            </p>
+                            <div class="sa goTop">
+                                <div class="blocCont hideMO texteCourant textJust">
+                                    <p class="hideMO">
+                                        Your success is our priority, and we are here to support you at every stage of
+                                        your
+                                        digital journey. Contact us today to learn more about how our services can
+                                        benefit your
+                                        business and help you achieve your goals. Together, we will drive your business
+                                        to new
+                                        heights in the digital era.
+                                    </p>
+                                </div>
+                            </div>
                         </div>
 
                         <div class="biColor padBlocTop ">
