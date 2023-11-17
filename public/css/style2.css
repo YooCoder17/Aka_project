@@ -1358,7 +1358,7 @@ button {
       right: -1px;
       bottom: -1px;
       border: 1px solid white;
-      background: #6a958c;
+      background: #65d6e4;
       display: block;
       z-index: 3;
       opacity: 0;
@@ -1382,7 +1382,7 @@ button {
     right: -1px;
     bottom: -1px;
     border: 1px solid white;
-    background: #6a958c;
+    background: #65d6e4;
     display: block;
     z-index: 3;
     opacity: 0;
@@ -1401,7 +1401,7 @@ button {
     right: -5px;
     bottom: -1px;
     border: 1px solid white;
-    background: #6a958c;
+    background: #65d6e4;
     display: block;
     z-index: 3;
     opacity: 0;
@@ -5492,7 +5492,7 @@ body {
     right: -1px;
     bottom: -1px;
     border: 1px solid white;
-    background: #6a958c;
+    background: #65d6e4;
     display: block;
     z-index: 3;
     opacity: 0;
