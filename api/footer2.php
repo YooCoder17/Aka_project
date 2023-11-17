@@ -50,17 +50,17 @@
 </nav>
 <a href="/" id="logo3" class="logoClip blancClip">
 
-    <img src="/assets/asa-logo.png" alt="logo-image">
+    <img src="/assets/cae_logo.png" alt="logo-image">
 </a>
 <a id="menuLink3" class="m blancClip">Menu<div><span></span><span></span><span></span></div></a>
 <a href="/" id="logo4" class="logoClip bleuClip">
-    <img src="/assets/asa-logo.png" alt="logo-image">
+    <img src="/assets/cae_logo.png" alt="logo-image">
 </a>
 <a id="menuLink4" class="m bleuClip">Menu<div><span></span><span></span><span></span></div></a>
 <div id="cacheMenuBlanc"></div>
 <div id="logoHoverMenu">
     <a href="<?php echo $baseHref;?>" class="logoClip blancClip">
-        <!--<img src="/assets/asa-logo.png" alt="logo-image">-->
+        <!--<img src="/assets/cae_logo.png" alt="logo-image">-->
         <!--  <img src="" alt='logo'>-->
     </a>
     <a class="m">Menu<div><span></span><span></span><span></span></div></a>
@@ -69,7 +69,7 @@
 </div>
 <div class="ajax-overlay">
     <a href="#" class="logoClip blancClip">
-        <img src="/assets/asa-logo.png" alt="logo-image">
+        <img src="/assets/cae_logo.png" alt="logo-image">
     </a>
     <a class="m">Menu<div><span></span><span></span><span></span></div></a>
 </div>

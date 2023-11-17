@@ -18,7 +18,7 @@
             </video>
             <span id="bgBleu" class="fixe"></span>
             <div id="hea">
-                <a href="<?php echo $baseHref; ?>" id="logo1" class="logoClip blancClip"><img src="/assets/asa-logo.png"
+                <a href="<?php echo $baseHref; ?>" id="logo1" class="logoClip blancClip"><img src="/assets/cae_logo.png"
                         alt="logo-image"></a>
                 <a href="#" id="f1" class="nClip"><img src="/assets/logoiconeblanc.png" alt="N" /></a>
                 <div id="titreVertical1" class="titreVertClip hideMO">
@@ -159,7 +159,7 @@
                     </div>
                 </div>
 
-                <p id="legalhome" class="hideMO"><a href="/privacy-and-cookies-policy/">Legal</a> - <a
+                <p id="legalhome" class="hideMO" style="z-index:9999;"><a href="/privacy-and-cookies-policy/">Legal</a> - <a
                         href="/privacy-and-cookies-policy/">Privacy</a></p>
 
             </div>
