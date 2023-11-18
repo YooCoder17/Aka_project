@@ -16,7 +16,7 @@
     <div class="wrapper" id="barba-wrapper">
         <div class="barba-container scrollTop" data-namespace="stories">
             <video autoplay muted loop id="myVideo" style="position:fixed;width:100vw;height:100vh;">
-                <source src="CAE Business Solusion - Contact.mp4" type="video/mp4">
+                <source src="/assets/CAE Business Solusion - Contact.mp4" type="video/mp4">
                 Your browser does not support HTML5 video.
             </video>
             <div id="overlay" style="position:fixed;width: 100vw; height: 100vh; background: rgba(0,0,0,0.3); z-index:1;"></div>
