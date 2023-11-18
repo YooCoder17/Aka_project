@@ -112,7 +112,7 @@ nav #contact>div p span {
     }
     .colGaucheStories .blocCont, .colGaucheStories .divider {
     max-width: 100%;
-    margin-left: 5vw;
+    margin-left: 7vw;
 }
 
 .each-video-box{
