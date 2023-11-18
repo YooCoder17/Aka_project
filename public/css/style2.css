@@ -296,7 +296,17 @@ h1.texteTitre.blocCont.noPadBot.white span {
 
 .textLeft {
   text-align: left !important; }
+#contact_us_page #colDroite2 {
+  z-index: 2 !important;
+}
 
+#contact_us_page .biColor,
+#contact_us_page .bgGrisClair,
+#contact_us_page .biColor:nth-child(2n),
+#contact_us_page #cacheMenu {
+  background: transparent !important;
+  z-index: 2 !important;
+}
 @media (min-width: 960px) {
   .titreJob {
     width: 55vw !important; } }
@@ -7189,14 +7199,3 @@ p.texteCourant ul {
   fill: black !important;
 }
 
-#contact_us_page #colDroite2 {
-  z-index: 2 !important;
-}
-
-#contact_us_page .biColor,
-#contact_us_page .bgGrisClair,
-#contact_us_page .biColor:nth-child(2n),
-#contact_us_page #cacheMenu {
-  background: transparent !important;
-  z-index: 2 !important;
-}
