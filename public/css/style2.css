@@ -7011,7 +7011,6 @@ p.contactTel {
 }
  
  .biColor, .bgGrisClair, .biColor:nth-child(2n), #cacheMenu {
-    background: #000; 
     background: url('/assets/CAE Business Solusion - Contact.mp4');
     background-color: rgba(0, 0, 0, 0.5);
 }
