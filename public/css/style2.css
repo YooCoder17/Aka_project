@@ -1418,7 +1418,7 @@ button {
   opacity: 0.5 !important; }
 
 #homePage > a {
-  margin-left: 3vw;
+  margin-left: 5vw;
   width: auto;
   max-width: 650px !important;
   display: block; }
@@ -1528,6 +1528,10 @@ button {
       #contactPage > div > div {
         padding: 2vh 0; } }
 @media (max-width: 500px) {
+  .logoClip {
+    top: 15px;
+    left: 5vw;
+  }
   #blocContact {
     border-bottom: 1px solid #e5e7eb;
     position: relative;
