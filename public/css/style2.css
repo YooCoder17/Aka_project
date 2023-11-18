@@ -2554,11 +2554,11 @@ button {
     transition: 0.25s;
     fill: #fff; }
   .twitter polygon {
-    fill: red !important;
+    fill: black !important;
   }
   
   .twitter path {
-    fill: blue !important;
+    fill: white !important;
   }
   
   .twitter:hover polygon {
