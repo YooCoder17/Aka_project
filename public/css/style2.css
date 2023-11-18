@@ -2553,19 +2553,19 @@ button {
     max-height: 24px;
     transition: 0.25s;
     fill: #fff; }
-  .twitter-icon polygon {
-    fill: black;
+  .twitter polygon {
+    fill: red;
   }
   
-  .twitter-icon path {
+  .twitter path {
+    fill: blue;
+  }
+  
+  .twitter:hover polygon {
     fill: white;
   }
   
-  .twitter-icon:hover polygon {
-    fill: white;
-  }
-  
-  .twitter-icon:hover path {
+  .twitter:hover path {
     fill: black;
   }
   .socialBox a:hover {
