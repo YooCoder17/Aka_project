@@ -53,9 +53,9 @@
     <img src="/assets/cae_logo.png" alt="logo-image">
 </a>
 <a id="menuLink3" class="m blancClip">Menu<div><span></span><span></span><span></span></div></a>
-<a href="/" id="logo4" class="logoClip bleuClip">
+<!-- <a href="/" id="logo4" class="logoClip bleuClip">
     <img src="/assets/cae_logo.png" alt="logo-image">
-</a>
+</a> -->
 <a id="menuLink4" class="m bleuClip">Menu<div><span></span><span></span><span></span></div></a>
 <div id="cacheMenuBlanc"></div>
 <div id="logoHoverMenu">

@@ -4903,7 +4903,7 @@ body {
 
 @media (min-width: 960px) and (max-width: 1239px) {
   #v.pageStories {
-    padding-top: 15vw !important; } }
+    padding-top: 200px !important; } }
 @media (min-width: 1240px) {
   #v.pageStories {
     padding-top: 200px !important; } }
@@ -5381,7 +5381,7 @@ body {
     display: inline-block !important; }
 
   #v.pageStories {
-    padding-top: 6vw !important; } }
+    padding-top: 200px !important; } }
 @media (max-width: 1020px) and (min-width: 960px) {
   .pageTitreSmall.bleu + .miniTitre {
     margin-bottom: 0vw !important; } }
@@ -5765,7 +5765,7 @@ a.juiz_last_tweet_tweetos {
     padding-top: 0 !important; }
 
   #bod.bgStorie .pageTitreSmall.bleu.hideMO {
-    padding-top: 2vw !important; }
+    padding-top: 200px !important; }
 
   #aboutPage {
     padding-top: 18vw !important; } }

@@ -183,7 +183,7 @@
                                         acknowledge their understanding and acceptance of the terms outlined in this
                                         legal and privacy documentation. For further inquiries, please contact our legal
                                         department at <span><a
-                                                href="mailto:info@caebusinesssolutions.co.uk">info@caebusinesssolutions.co.uk</a></span><br><br>
+                                                href="mailto:info@caebusinesssolutions.co.uk" style="color:white;">info@caebusinesssolutions.co.uk</a></span><br><br>
                                         Date of Last Revision: 17th of November 2023.
 
                                     </p>

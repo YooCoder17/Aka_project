@@ -60,20 +60,14 @@
 	overflow: hidden;
 }
 #logo3 img{
-	width: 105%;
-	margin-left: -2px;
-	margin-top: -2px;
-	margin-bottom: -7px;
+	width: 120px;
 }
 #logo1{
 	width: 400px;
 	overflow: hidden;
 }
 #logo1 img{
-	width: 105%;
-	margin-left: -2px;
-	margin-top: -2px;
-	margin-bottom: -7px;
+	width: 120px;
 }
 nav #contact>div p span {
 	padding-right:4px !important;
