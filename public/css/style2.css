@@ -2553,11 +2553,11 @@ button {
     max-height: 24px;
     transition: 0.25s;
     fill: #fff; }
-  .socialBox .twitter polygon:hover {
-    fill: black !important;
-  }
-  .socialBox .twitter path:hover {
+  .twitter polygon:hover {
     fill: white !important;
+  }
+  .twitter path:hover {
+    fill: black !important;
   }
   .socialBox a:hover {
     opacity: 1;

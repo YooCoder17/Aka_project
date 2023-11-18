@@ -20,7 +20,7 @@
             <div id="bod" class="bgGrisClair bgStorie noHide">
                 <div id="cadreContent">
                     <a href="/" id="logo2" class="logoClip bleuClip hideMO">
-                        <img src="/assets/asa-logo.png" alt='logo'>
+                        <img src="/assets/cae_logo.png" alt='logo'>
                     </a>
                     <a href="" id="f2" class="nClip">
                         <!--<img src="/assets/asa-logo.png" alt="N" />-->
@@ -99,10 +99,10 @@
                                 </div>
                                 <div class="blocCont hideMO texteCourant textJust">
                                     <p class="lineBefore hideMO">
-                                        CAE Business Solutions LTD<br />
-                                        4th Floor<br />
-                                        18 St Cross St<br />
-                                        London<br />
+                                        CAE Business Solutions LTD<br><br>
+                                        4th Floor<br><br>
+                                        18 St Cross St<br><br>
+                                        London<br><br>
                                         EC1N 8UN<br><br>
                                         London Office: <a href="tel:02039076868" style="color:white">0203 907 6868</a><br><br>
                                         Birmingham Office: <a href="tel:00440121 647 7100" style="color:white">0121 647 7100</a><br><br>
@@ -150,8 +150,8 @@
 
                             <div class="biColor padBlocTop ">
                                 <div class="lastBtn blocCont hideMO textePrelude">
-                                    <a href="tel:07494959299" class="scroll-to btn blanc"><span>Call Us</span></a>
-                                    <a href="mailto:info@asaevents.uk"
+                                    <a href="tel:02039076868" class="scroll-to btn blanc"><span>Call Us</span></a>
+                                    <a href="mailto:info@caebusinesssolutions.co.uk"
                                         class="btn blanc contactUs contactOurTeam"><span>email us</span></a>
                                 </div>
                             </div>
