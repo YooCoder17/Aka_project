@@ -46,7 +46,7 @@
     </div>
     <!--    <p id="copyright"><a href="#" target="_blank">Created by <span><img src="/assets/atelierdesign.svg"
                     alt="Atelier Design" /></span></a></p>-->
-    <p id="legalLien"><a href="#">Legal</a> - <a href="#">Privacy</a></p>
+    <p id="legalLien"><a href="/privacy-and-cookies-policy/">Legal</a> - <a href="/privacy-and-cookies-policy/">Privacy</a></p>
 </nav>
 <a href="/" id="logo3" class="logoClip blancClip">
 
