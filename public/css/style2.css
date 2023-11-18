@@ -1530,7 +1530,7 @@ button {
 @media (max-width: 500px) {
   .logoClip {
     top: 15px;
-    left: 5vw;
+    left: 5vw !important;
   }
   #blocContact {
     border-bottom: 1px solid #e5e7eb;
@@ -2553,6 +2553,12 @@ button {
     max-height: 24px;
     transition: 0.25s;
     fill: #fff; }
+  .socialBox .twitter polygon:hover {
+    fill: black !important;
+  }
+  .socialBox .twitter path:hover {
+    fill: white !important;
+  }
   .socialBox a:hover {
     opacity: 1;
     transition: 0.125s;

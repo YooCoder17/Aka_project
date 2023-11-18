@@ -20,10 +20,10 @@
             <div id="bod" class="bgGrisClair bgStorie noHide">
                 <div id="cadreContent">
                     <a href="/" id="logo2" class="logoClip bleuClip hideMO">
-                        <img src="/assets/cae_logo.png" alt='logo'>
+                        <img src="/assets/asa-logo.png" alt='logo'>
                     </a>
                     <a href="" id="f2" class="nClip">
-                        <!--<img src="/assets/cae_logo.png" alt="N" />-->
+                        <!--<img src="/assets/asa-logo.png" alt="N" />-->
                     </a>
                     <div id="titreVertical2" class="titreVertClip hideMO bleuClip">
                         <p>
@@ -99,23 +99,33 @@
                                 </div>
                                 <div class="blocCont hideMO texteCourant textJust">
                                     <p class="lineBefore hideMO">
-                                        2nd Floor Quayside Tower<br><br>
-                                        252-260 Broad Street<br><br>
-                                        Birmingham<br><br>
-                                        West Midlands<br><br>
-                                        B1 2HF<br><br>
-                                        London Office: <a href="tel:02034116463" style="color:white">0203 4116
-                                            463</a><br><br>
-                                        Birmingham Office: <a href="tel:0044121 2705 548" style="color:white">0121 2705
-                                            548</a><br><br>
-                                        MOBILE NUMBER: <a href="tel:00447949 959 299" style="color:white">07949 959
-                                            299</a>
+                                        CAE Business Solutions LTD<br />
+                                        4th Floor<br />
+                                        18 St Cross St<br />
+                                        London<br />
+                                        EC1N 8UN<br><br>
+                                        London Office: <a href="tel:02039076868" style="color:white">0203 907 6868</a><br><br>
+                                        Birmingham Office: <a href="tel:00440121 647 7100" style="color:white">0121 647 7100</a><br><br>
+                                        MOBILE NUMBER: <a href="tel:00447958 611 225" style="color:white">07958 611 225</a>
                                     </p>
                                     <div id="social" class="socialBox contact-us-social">
-                                        <a target="_blank" href="https://twitter.com/asaeventsuk" class="twitter"><svg
-                                                viewBox="0 0 512 512">
-                                                <path
-                                                    d="M419.6 168.6c-11.7 5.2-24.2 8.7-37.4 10.2 13.4-8.1 23.8-20.8 28.6-36 -12.6 7.5-26.5 12.9-41.3 15.8 -11.9-12.6-28.8-20.6-47.5-20.6 -42 0-72.9 39.2-63.4 79.9 -54.1-2.7-102.1-28.6-134.2-68 -17 29.2-8.8 67.5 20.1 86.9 -10.7-0.3-20.7-3.3-29.5-8.1 -0.7 30.2 20.9 58.4 52.2 64.6 -9.2 2.5-19.2 3.1-29.4 1.1 8.3 25.9 32.3 44.7 60.8 45.2 -27.4 21.4-61.8 31-96.4 27 28.8 18.5 63 29.2 99.8 29.2 120.8 0 189.1-102.1 185-193.6C399.9 193.1 410.9 181.7 419.6 168.6z" />
+                                        <a target="_blank" href="https://twitter.com/asaeventsuk" class="twitter"> <svg
+                                                xmlns="http://www.w3.org/2000/svg"
+                                                xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="16"
+                                                height="16" viewBox="0 0 256 256" xml:space="preserve">
+
+                                                <defs>
+                                                </defs>
+                                                <g style="stroke: none; stroke-width: 0; stroke-dasharray: none; stroke-linecap: butt; stroke-linejoin: miter; stroke-miterlimit: 10; fill: none; fill-rule: nonzero; opacity: 1;"
+                                                    transform="translate(1.4065934065934016 1.4065934065934016) scale(2.81 2.81)">
+                                                    <polygon points="24.89,23.01 57.79,66.99 65.24,66.99 32.34,23.01 "
+                                                        style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-linejoin: miter; stroke-miterlimit: 10; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1;"
+                                                        transform="  matrix(1 0 0 1 0 0) " />
+                                                    <path
+                                                        d="M 45 0 L 45 0 C 20.147 0 0 20.147 0 45 v 0 c 0 24.853 20.147 45 45 45 h 0 c 24.853 0 45 -20.147 45 -45 v 0 C 90 20.147 69.853 0 45 0 z M 56.032 70.504 L 41.054 50.477 L 22.516 70.504 h -4.765 L 38.925 47.63 L 17.884 19.496 h 16.217 L 47.895 37.94 l 17.072 -18.444 h 4.765 L 50.024 40.788 l 22.225 29.716 H 56.032 z"
+                                                        style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-linejoin: miter; stroke-miterlimit: 10; fill: rgb(255,255,255); fill-rule: nonzero; opacity: 1;"
+                                                        transform=" matrix(1 0 0 1 0 0) " stroke-linecap="round" />
+                                                </g>
                                             </svg></a>
                                         <a target="_blank" href="https://www.facebook.com/asaeventsuk/ "
                                             class="facebook"><svg xmlns="http://www.w3.org/2000/svg" width="16"
