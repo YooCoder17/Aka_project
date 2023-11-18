@@ -2553,21 +2553,6 @@ button {
     max-height: 24px;
     transition: 0.25s;
     fill: #fff; }
-  .twitter polygon {
-    fill: black !important;
-  }
-  
-  .twitter path {
-    fill: white !important;
-  }
-  
-  .twitter:hover polygon {
-    fill: white !important;
-  }
-  
-  .twitter:hover path {
-    fill: black !important;
-  }
   .socialBox a:hover {
     opacity: 1;
     transition: 0.125s;
@@ -7182,4 +7167,20 @@ box-shadow: inset 0 0 0px rgb(255 255 255 / 51%);
  
 p.texteCourant ul {
   margin-left: 1vw;
+}
+
+.twitter polygon {
+  fill: black !important;
+}
+
+.twitter path {
+  fill: white !important;
+}
+
+.twitter:hover polygon {
+  fill: white !important;
+}
+
+.twitter:hover path {
+  fill: black !important;
 }
