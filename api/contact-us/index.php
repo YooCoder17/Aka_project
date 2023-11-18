@@ -16,15 +16,15 @@
 
 
     <div class="wrapper contact_us_page" id="barba-wrapper">
-        <div id="overlay" style="position:fixed; width: 100vw; height: 100vh; background: rgba(0,0,0,0.9); z-index:2;">
-        </div>
-        <video autoplay muted loop id="myVideo"
-            style="position:fixed;width:100vw;height:100vh;object-fit:fill;z-index:1">
-            <source src="/assets/CAE Business Solusion - Contact.mp4" type="video/mp4">
-            Your browser does not support HTML5 video.
-        </video>
         <div class="barba-container scrollTop" data-namespace="stories">
-
+            <div id="overlay"
+                style="position:fixed; width: 100vw; height: 100vh; background: rgba(0,0,0,0.9); z-index:2;">
+            </div>
+            <video autoplay muted loop id="myVideo"
+                style="position:fixed;width:100vw;height:100vh;object-fit:fill;z-index:1">
+                <source src="/assets/CAE Business Solusion - Contact.mp4" type="video/mp4">
+                Your browser does not support HTML5 video.
+            </video>
             <div id="menuVI" class="actif"></div>
             <div id="menuCache"></div>
             <div id="bod" class="bgGrisClair bgStorie noHide">
@@ -41,7 +41,7 @@
                     </div>
                     <a id="menuLink2" class="m bleuClip">Menu<div><span></span><span></span><span></span></div></a>
                     <a id="scrollDownLink2" class="scrollDown"></a>
-                    <div id="colDroite2" class="menuDr menuVertical bgBlanc hideMO">
+                    <div id="colDroite2" class="menuDr menuVertical bgBlanc hideMO animate__animated animate__fadeInDown">
                         <h2 class="titreBloc miniTitre white">Sectors</h2>
                         <a href="/" class="fdB"><span>HOME</span></a>
                         <a href="/public-relations/" class="fdB"><span>ABOUT</span></a>
