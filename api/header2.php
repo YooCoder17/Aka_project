@@ -33,14 +33,14 @@ $baseHref = "https://aka-project.vercel.app";
     <script src="/scripts/jquery-migrate.min.js"></script>
     <link rel="icon" type="image/x-icon" href="/assets/faviconBlack.png">
     <style>
-        #contact_us_page #colDroite2 {
+        .contact_us_page #colDroite2 {
             z-index: 2 !important;
         }
 
-        #contact_us_page .biColor,
-        #contact_us_page .bgGrisClair,
-        #contact_us_page .biColor:nth-child(2n),
-        #contact_us_page #cacheMenu {
+        .contact_us_page .biColor,
+        .contact_us_page .bgGrisClair,
+        .contact_us_page .biColor:nth-child(2n),
+        .contact_us_page #cacheMenu {
             background: transparent !important;
             z-index: 2 !important;
         }
