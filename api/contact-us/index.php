@@ -10,19 +10,19 @@
             margin-top: 30px;
         }
     }
-
-
 </style>
 
 <body class="stories-template-default single single-stories postid-233">
-    <div id="overlay" style="position:fixed; width: 100vw; height: 100vh; background: rgba(0,0,0,0.9); z-index:2;">
-    </div>
-    <video autoplay muted loop id="myVideo" style="position:fixed;width:100vw;height:100vh;object-fit:fill;z-index:1">
-        <source src="/assets/CAE Business Solusion - Contact.mp4" type="video/mp4">
-        Your browser does not support HTML5 video.
-    </video>
+
 
     <div class="wrapper contact_us_page" id="barba-wrapper">
+        <div id="overlay" style="position:fixed; width: 100vw; height: 100vh; background: rgba(0,0,0,0.9); z-index:2;">
+        </div>
+        <video autoplay muted loop id="myVideo"
+            style="position:fixed;width:100vw;height:100vh;object-fit:fill;z-index:1">
+            <source src="/assets/CAE Business Solusion - Contact.mp4" type="video/mp4">
+            Your browser does not support HTML5 video.
+        </video>
         <div class="barba-container scrollTop" data-namespace="stories">
 
             <div id="menuVI" class="actif"></div>

@@ -5443,7 +5443,7 @@ body {
     padding-top: 56px !important;
     padding-bottom: 56px !important; } }
 .divider {
-  background-color: rgb(255 255 255 / 18%) !important }
+  background-color: white !important }
 
 @media (max-width: 959px) {
   .newsDetail.colGauche.colGaucheContent.bgGrisClair.colGaucheStories.tripleCol.fullHeight.hideMO {
