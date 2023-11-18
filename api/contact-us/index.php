@@ -13,18 +13,21 @@
 </style>
 
 <body class="stories-template-default single single-stories postid-233">
-    <video autoplay muted loop id="myVideo" style="position:fixed;width:100vw;height:100vh;object-fit:fill;z-index:1">
-        <source src="/assets/CAE Business Solusion - Contact.mp4" type="video/mp4">
-        Your browser does not support HTML5 video.
-    </video>
-    <div id="overlay" style="position:fixed;width: 100vw; height: 100vh; background: rgba(0,0,0,0.9); z-index:3;"></div>
     <div class="wrapper" id="barba-wrapper">
         <div class="barba-container scrollTop" data-namespace="stories">
 
             <div id=" menuVI" class="actif"></div>
             <div id="menuCache"></div>
-            <div id="bod" class="bgGrisClair bgStorie noHide">
+            <div id="bod" class="bgGrisClair bgStorie noHide" style="background:transparent !important; z-index:3;">
                 <div id="cadreContent">
+                    <video autoplay muted loop id="myVideo"
+                        style="position:fixed;width:100vw;height:100vh;object-fit:fill;z-index:1">
+                        <source src="/assets/CAE Business Solusion - Contact.mp4" type="video/mp4">
+                        Your browser does not support HTML5 video.
+                    </video>
+                    <div id="overlay"
+                        style="position:fixed; width: 100vw; height: 100vh; background: rgba(0,0,0,0.9); z-index:2;">
+                    </div>
                     <a href="/" id="logo2" class="logoClip bleuClip hideMO">
                         <img src="/assets/cae_logo.png" alt='logo'>
                     </a>
@@ -46,8 +49,8 @@
 
                     </div>
                     <div id="cacheMenuDr" class="hideMO"></div>
-                    <div class="colGauche colGaucheContent bgGrisClair colGaucheStories pageStories" id="v" style="background:transparent !important; z-index:2;">
-                        <div class="biColor padBlocBot">
+                    <div class="colGauche colGaucheContent bgGrisClair colGaucheStories pageStories" id="v">
+                        <div class="biColor padBlocBot" style="background:transparent !important; z-index:3">
                             <span class="pageTitreSmall bleu hideMO">Contact Us</span>
                             <div class="blocCont sa goTop miniTitre">
                                 <!-- <h2 class="hideMO">Contact Us</h2> -->
@@ -157,7 +160,7 @@
                             </div>
 
 
-                            <div class="biColor padBlocTop ">
+                            <div class="biColor padBlocTop" style="background:transparent !important; z-index:3;">
                                 <div class="lastBtn blocCont hideMO textePrelude">
                                     <a href="tel:02039076868" class="scroll-to btn blanc"><span>Call Us</span></a>
                                     <a href="mailto:info@caebusinesssolutions.co.uk"
@@ -169,6 +172,6 @@
                 </div>
             </div>
             <div id="scrollDown"></div>
-            <div id="cacheMenu"></div>
+            <div id="cacheMenu" style="background:transparent !important; z-index:3;"></div>
 
             <?php include_once(__DIR__ . '/../footer2.php'); ?>
