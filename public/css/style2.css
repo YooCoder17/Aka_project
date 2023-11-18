@@ -69,9 +69,9 @@ a {
 /*  color: #13294b; }*/
 
 img {
-  width: 120px; }
+  width: 100px; }
 #logo2 img{
-  width: 125px !important;
+  width: 100px !important;
 }
 .menuOuvert .nClip {
   opacity: 0 !important; }
@@ -7187,4 +7187,16 @@ p.texteCourant ul {
 
 .twitter:hover path {
   fill: black !important;
+}
+
+#contact_us_page #colDroite2 {
+  z-index: 2 !important;
+}
+
+#contact_us_page .biColor,
+#contact_us_page .bgGrisClair,
+#contact_us_page .biColor:nth-child(2n),
+#contact_us_page #cacheMenu {
+  background: transparent !important;
+  z-index: 2 !important;
 }

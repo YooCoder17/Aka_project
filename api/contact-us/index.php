@@ -11,20 +11,10 @@
         }
     }
 
-    #colDroite2 {
-        z-index: 2 !important;
-    }
 
-    .biColor,
-    .bgGrisClair,
-    .biColor:nth-child(2n),
-    #cacheMenu {
-        background: transparent !important;
-        z-index: 2 !important;
-    }
 </style>
 
-<body class="stories-template-default single single-stories postid-233">
+<body class="stories-template-default single single-stories postid-233" id="contact_us_page">
     <div id="overlay" style="position:fixed; width: 100vw; height: 100vh; background: rgba(0,0,0,0.9); z-index:2;">
     </div>
     <video autoplay muted loop id="myVideo" style="position:fixed;width:100vw;height:100vh;object-fit:fill;z-index:1">

@@ -56,18 +56,18 @@
 	pointer-events: all;
 }
 #logo3{
-	width: 120px;
+	width: 100px;
 	overflow: hidden;
 }
 #logo3 img{
-	width: 120px;
+	width: 100px;
 }
 #logo1{
-	width: 120px;
+	width: 100px;
 	overflow: hidden;
 }
 #logo1 img{
-	width: 120px;
+	width: 100px;
 }
 nav #contact>div p span {
 	padding-right:4px !important;
