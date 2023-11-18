@@ -2553,16 +2553,26 @@ button {
     max-height: 24px;
     transition: 0.25s;
     fill: #fff; }
-  .twitter polygon:hover {
-    fill: white !important;
+  .twitter-icon polygon {
+    fill: black;
   }
-  .twitter path:hover {
-    fill: black !important;
+  
+  .twitter-icon path {
+    fill: white;
+  }
+  
+  .twitter-icon:hover polygon {
+    fill: white;
+  }
+  
+  .twitter-icon:hover path {
+    fill: black;
   }
   .socialBox a:hover {
     opacity: 1;
     transition: 0.125s;
-    background: #fff; }
+    background: #fff; 
+  }
     .socialBox a:hover:after {
       transition: 0.25s;
       opacity: 1; }
