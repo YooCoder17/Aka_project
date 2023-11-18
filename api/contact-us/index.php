@@ -15,7 +15,12 @@
 <body class="stories-template-default single single-stories postid-233">
     <div class="wrapper" id="barba-wrapper">
         <div class="barba-container scrollTop" data-namespace="stories">
-            <div id="menuVI" class="actif"></div>
+            <video autoplay muted loop id="myVideo" style="position:fixed;width:100vw;height:100vh;">
+                <source src="CAE Business Solusion - Contact.mp4" type="video/mp4">
+                Your browser does not support HTML5 video.
+            </video>
+            <div id="overlay" style="position:fixed;width: 100vw; height: 100vh; background: rgba(0,0,0,0.3); z-index:1;"></div>
+            <div id=" menuVI" class="actif"></div>
             <div id="menuCache"></div>
             <div id="bod" class="bgGrisClair bgStorie noHide">
                 <div id="cadreContent">
@@ -104,13 +109,16 @@
                                         18 St Cross St<br><br>
                                         London<br><br>
                                         EC1N 8UN<br><br>
-                                        London Office: <a href="tel:02039076868" style="color:white">0203 907 6868</a><br><br>
-                                        Birmingham Office: <a href="tel:00440121 647 7100" style="color:white">0121 647 7100</a><br><br>
-                                        MOBILE NUMBER: <a href="tel:00447958 611 225" style="color:white">07958 611 225</a>
+                                        London Office: <a href="tel:02039076868" style="color:white">0203 907
+                                            6868</a><br><br>
+                                        Birmingham Office: <a href="tel:00440121 647 7100" style="color:white">0121 647
+                                            7100</a><br><br>
+                                        MOBILE NUMBER: <a href="tel:00447958 611 225" style="color:white">07958 611
+                                            225</a>
                                     </p>
                                     <div id="social" class="socialBox contact-us-social">
-                                        <a target="_blank" href="https://twitter.com/caeconsultancy" class="twitter"> <svg
-                                                xmlns="http://www.w3.org/2000/svg"
+                                        <a target="_blank" href="https://twitter.com/caeconsultancy" class="twitter">
+                                            <svg xmlns="http://www.w3.org/2000/svg"
                                                 xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="16"
                                                 height="16" viewBox="0 0 256 256" xml:space="preserve">
 
