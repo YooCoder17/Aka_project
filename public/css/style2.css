@@ -2554,19 +2554,19 @@ button {
     transition: 0.25s;
     fill: #fff; }
   .twitter polygon {
-    fill: red;
+    fill: red !important;
   }
   
   .twitter path {
-    fill: blue;
+    fill: blue !important;
   }
   
   .twitter:hover polygon {
-    fill: white;
+    fill: white !important;
   }
   
   .twitter:hover path {
-    fill: black;
+    fill: black !important;
   }
   .socialBox a:hover {
     opacity: 1;
