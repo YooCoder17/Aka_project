@@ -10,6 +10,13 @@
             margin-top: 30px;
         }
     }
+    .biColor, .bgGrisClair, .biColor:nth-child(2n), #cacheMenu {
+        background: transparent !important;
+        z-index: 2 !important;
+    }
+    #colDroite2 {
+        z-index: 2 !important;
+    }
 </style>
 
 <body class="stories-template-default single single-stories postid-233">
@@ -20,14 +27,14 @@
             <div id="menuCache"></div>
             <div id="bod" class="bgGrisClair bgStorie noHide" style="background:transparent !important; z-index:3;">
                 <div id="cadreContent">
-                    <video autoplay muted loop id="myVideo"
+                    <!-- <video autoplay muted loop id="myVideo"
                         style="position:fixed;width:100vw;height:100vh;object-fit:fill;z-index:1">
                         <source src="/assets/CAE Business Solusion - Contact.mp4" type="video/mp4">
                         Your browser does not support HTML5 video.
                     </video>
                     <div id="overlay"
                         style="position:fixed; width: 100vw; height: 100vh; background: rgba(0,0,0,0.9); z-index:2;">
-                    </div>
+                    </div> -->
                     <a href="/" id="logo2" class="logoClip bleuClip hideMO">
                         <img src="/assets/cae_logo.png" alt='logo'>
                     </a>
