@@ -15,8 +15,8 @@
 <body class="stories-template-default single single-stories postid-233">
 
 
-    <div class="wrapper contact_us_page" id="barba-wrapper">
-        <div class="barba-container scrollTop" data-namespace="stories">
+    <div class="wrapper" id="barba-wrapper">
+        <div class="barba-container scrollTop contact_us_page" data-namespace="stories">
             <div id="overlay"
                 style="position:fixed; width: 100vw; height: 100vh; background: rgba(0,0,0,0.9); z-index:2;">
             </div>
