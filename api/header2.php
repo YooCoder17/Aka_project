@@ -1,6 +1,6 @@
 <?php
-    $baseHref = "https://aka-project.vercel.app";
-    
+$baseHref = "https://aka-project.vercel.app";
+
 ?>
 <!DOCTYPE html>
 <html lang="en-US">
@@ -33,103 +33,135 @@
     <script src="/scripts/jquery-migrate.min.js"></script>
     <link rel="icon" type="image/x-icon" href="/assets/faviconBlack.png">
     <style>
-	#barba-wrapper::before{
-	content: "";
-	position:absolute;
-	background:transparent;
-	top:0px;
-	left:0px;
-	width:100%;
-	height:100%;
-	z-index:0;
-	pointer-events: none;
-}
-.home #barba-wrapper::before{
-	content: "";
-	position:absolute;
-	background:transparent;
-	top:0px;
-	left:0px;
-	width:100%;
-	height:100%;
-	z-index:0;
-	pointer-events: all;
-}
-#logo3{
-	width: 100px;
-	overflow: hidden;
-}
-#logo3 img{
-	width: 100px;
-}
-#logo1{
-	width: 100px;
-	overflow: hidden;
-}
-#logo1 img{
-	width: 100px;
-}
-nav #contact>div p span {
-	padding-right:4px !important;
-}
-.textJust {
-	hyphens: none !important;
-	
-}
-.menuHome a:nth-child(2):after{
-	background-color:rgba(0,0,0,0.6);
-}
-.menuHome a:nth-child(3):after{
-	background-color:rgba(255,255,255,0.8);
-}
-.menuHome a:nth-child(3):hover > div > p{
-	color:#000 !important
-}
-#image-container {
-    display: flex;
-    flex-wrap: wrap;
- }
-#image-container img { 
-    width: 23.5%;
-    height: auto;
-    margin-right:10px;
-    margin-bottom:10px;
-    height:100px;
- }
-@media ( max-width: 50em ) {
-#image-container img { 
-    width: 50%;
-  }
- }
+        #contact_us_page #colDroite2 {
+            z-index: 2 !important;
+        }
 
-@media ( max-width: 25em ) {
-#image-container img { 
-    width: 100%;
-  }
- }  
-    .btn{
-        border-radius:0px !important;
-    }
-    .colGaucheStories .blocCont, .colGaucheStories .divider {
-    max-width: 100%;
-    margin-left: 7vw;
-}
+        #contact_us_page .biColor,
+        #contact_us_page .bgGrisClair,
+        #contact_us_page .biColor:nth-child(2n),
+        #contact_us_page #cacheMenu {
+            background: transparent !important;
+            z-index: 2 !important;
+        }
 
-.each-video-box{
-	margin-bottom: 9.27%;
-}
-.each-video-box video{
-	height:335px;
-	width:100%;
-	margin-bottom:30px;
-    object-fit: initial;
-}
-.each-video-box.virtual-video video{
-	height:auto !important;
-	width:100%;
-}
-.virtual-video.each-video-box, .each-video-box.last-video-box{
-	margin-bottom:0px;
-}
+        #barba-wrapper::before {
+            content: "";
+            position: absolute;
+            background: transparent;
+            top: 0px;
+            left: 0px;
+            width: 100%;
+            height: 100%;
+            z-index: 0;
+            pointer-events: none;
+        }
+
+        .home #barba-wrapper::before {
+            content: "";
+            position: absolute;
+            background: transparent;
+            top: 0px;
+            left: 0px;
+            width: 100%;
+            height: 100%;
+            z-index: 0;
+            pointer-events: all;
+        }
+
+        #logo3 {
+            width: 100px;
+            overflow: hidden;
+        }
+
+        #logo3 img {
+            width: 100px;
+        }
+
+        #logo1 {
+            width: 100px;
+            overflow: hidden;
+        }
+
+        #logo1 img {
+            width: 100px;
+        }
+
+        nav #contact>div p span {
+            padding-right: 4px !important;
+        }
+
+        .textJust {
+            hyphens: none !important;
+
+        }
+
+        .menuHome a:nth-child(2):after {
+            background-color: rgba(0, 0, 0, 0.6);
+        }
+
+        .menuHome a:nth-child(3):after {
+            background-color: rgba(255, 255, 255, 0.8);
+        }
+
+        .menuHome a:nth-child(3):hover>div>p {
+            color: #000 !important
+        }
+
+        #image-container {
+            display: flex;
+            flex-wrap: wrap;
+        }
+
+        #image-container img {
+            width: 23.5%;
+            height: auto;
+            margin-right: 10px;
+            margin-bottom: 10px;
+            height: 100px;
+        }
+
+        @media (max-width: 50em) {
+            #image-container img {
+                width: 50%;
+            }
+        }
+
+        @media (max-width: 25em) {
+            #image-container img {
+                width: 100%;
+            }
+        }
+
+        .btn {
+            border-radius: 0px !important;
+        }
+
+        .colGaucheStories .blocCont,
+        .colGaucheStories .divider {
+            max-width: 100%;
+            margin-left: 7vw;
+        }
+
+        .each-video-box {
+            margin-bottom: 9.27%;
+        }
+
+        .each-video-box video {
+            height: 335px;
+            width: 100%;
+            margin-bottom: 30px;
+            object-fit: initial;
+        }
+
+        .each-video-box.virtual-video video {
+            height: auto !important;
+            width: 100%;
+        }
+
+        .virtual-video.each-video-box,
+        .each-video-box.last-video-box {
+            margin-bottom: 0px;
+        }
     </style>
 </head>

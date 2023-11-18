@@ -7,7 +7,7 @@
             <!--<div id="videos-src" class="videos-src" style="display:none;"-->
             <!--    data-src="/assets/reflection-45977.mp4,  assets/Gettyimages-495355643-10-Sec-13.mp4, assets/Gettyimages-681857134-9-Sec-17.mp4, assets/Gettyimages-143-37-9-Sec-1.mp4, assets/Gettyimages-168890703-9-Sec-4.mp4">-->
             <div id="videos-src" class="videos-src" style="display:none;"
-                data-src="assets/ocean_-_98811 (1080p).mp4, assets/Gettyimages-143-37-9-Sec-1.mp4, assets/Gettyimages-168890703-9-Sec-4.mp4">
+                data-src="assets/ocean.mp4, assets/Gettyimages-143-37-9-Sec-1.mp4, assets/Gettyimages-168890703-9-Sec-4.mp4">
             </div>
             <div id="menuCache"></div>
             <video style="background: black;" poster="/assets/turbine.jpg" class="bg-vid-home" id="bgvidHome"
