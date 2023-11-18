@@ -56,14 +56,14 @@
 	pointer-events: all;
 }
 #logo3{
-	width: 150px;
+	width: 120px;
 	overflow: hidden;
 }
 #logo3 img{
 	width: 120px;
 }
 #logo1{
-	width: 400px;
+	width: 120px;
 	overflow: hidden;
 }
 #logo1 img{
